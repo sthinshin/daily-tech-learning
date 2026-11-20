@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "start_date": null,
+  "timezone": null,
+  "profile": {
+    "target_role": null,
+    "target_stack": [],
+    "programming_language": null,
+    "current_level": null,
+    "interview_date": null,
+    "daily_study_minutes": null,
+    "response_language": null,
+    "visual_preferences": null,
+    "database_question_preferences": null
+  },
+  "reminders": [],
+  "study_log": [],
+  "review_items": [],
+  "review_sessions": [],
+  "active_review_plan": null,
+  "pending_question": null
+}

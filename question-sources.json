@@ -1,0 +1,3151 @@
+{
+  "sources": {
+    "interview_note": {
+      "last_success_utc": "2026-11-20T11:22:58.587238+00:00",
+      "last_attempt_utc": "2026-11-20T11:22:58.587238+00:00",
+      "sha256": "1a48b42574789b609d9c324a9b779c5171155a81d9ceff93bb1aa6119675dde1",
+      "entries": [
+        {
+          "key": "00-roadmap.md",
+          "title": "00-roadmap.md",
+          "revision": "7bc161d2b351cbfabbc31f8971a7c6e1bfd260eb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/00-roadmap.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/README.md",
+          "title": "01-go-language/01-syntax/README.md",
+          "revision": "dc9e4286de711c4f738133dd82f39875a11e79a8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/defer.md",
+          "title": "01-go-language/01-syntax/defer.md",
+          "revision": "041dfe17c252e3bcf483a9a39ed376d4dd411f92",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/defer.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/error.md",
+          "title": "01-go-language/01-syntax/error.md",
+          "revision": "6171b86a18b85bbac45f258de5b324e386db6019",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/error.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/generics.md",
+          "title": "01-go-language/01-syntax/generics.md",
+          "revision": "c24ac7141781d1a47f7d8b6fb167948bce1ddae8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/generics.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/interface-design.md",
+          "title": "01-go-language/01-syntax/interface-design.md",
+          "revision": "4a407eff32a004c60e39661cb2fa21d099d4408f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/interface-design.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/interface.md",
+          "title": "01-go-language/01-syntax/interface.md",
+          "revision": "c2dd870d12e17b04cfd6c2f6bc0fae30fb9abd2c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/interface.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/language-comparison.md",
+          "title": "01-go-language/01-syntax/language-comparison.md",
+          "revision": "815fd4984bd79d17cd82f493a02c3dee11469e11",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/language-comparison.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/map.md",
+          "title": "01-go-language/01-syntax/map.md",
+          "revision": "7dc52b6c8971733c22427ef22316e346b6232639",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/pointer-value-copy.md",
+          "title": "01-go-language/01-syntax/pointer-value-copy.md",
+          "revision": "eb4bbf4f27b204371717091a5406fba26316a3a2",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/pointer-value-copy.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/slice.md",
+          "title": "01-go-language/01-syntax/slice.md",
+          "revision": "b5c28622cacb2da585ee214b612ea5bffb650911",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/slice.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/string.md",
+          "title": "01-go-language/01-syntax/string.md",
+          "revision": "588261810235b51716d1b8ea39c62a8cb9b2bc83",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/string.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/01-syntax/struct.md",
+          "title": "01-go-language/01-syntax/struct.md",
+          "revision": "614457f73a9d47e080709e38f41cde3ea6c10849",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/01-syntax/struct.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/README.md",
+          "title": "01-go-language/02-concurrency/README.md",
+          "revision": "b98049a4499f2142c51535ceebffbddadd9f6b25",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/channel-patterns-cookbook.md",
+          "title": "01-go-language/02-concurrency/channel-patterns-cookbook.md",
+          "revision": "2e3dd79c777c7dfc253a316edc53bfd88f303620",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/channel-patterns-cookbook.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/channel.md",
+          "title": "01-go-language/02-concurrency/channel.md",
+          "revision": "ca64d23ab8a888bd8347f5ba7b7a31dfe7a77616",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/channel.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/context.md",
+          "title": "01-go-language/02-concurrency/context.md",
+          "revision": "f6bfe198874d9f49d24bc4a0757da4da00ff4982",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/context.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/errgroup-pattern.md",
+          "title": "01-go-language/02-concurrency/errgroup-pattern.md",
+          "revision": "3300f3c270d5eacecfaf547790f9bb92001c844f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/errgroup-pattern.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/goroutine.md",
+          "title": "01-go-language/02-concurrency/goroutine.md",
+          "revision": "a5a812ffc566954ad23e1a5876d1321f6f2baf4e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/goroutine.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/memory-model.md",
+          "title": "01-go-language/02-concurrency/memory-model.md",
+          "revision": "e54775fa1b175f4155167af4dde5aee901fc64d1",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/memory-model.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/select.md",
+          "title": "01-go-language/02-concurrency/select.md",
+          "revision": "51bea366726cf9122d1f794ecfe561512652a87e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/select.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/02-concurrency/sync-package.md",
+          "title": "01-go-language/02-concurrency/sync-package.md",
+          "revision": "78b0443185fcc89a1864df265cb13953e31bb82c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/02-concurrency/sync-package.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/README.md",
+          "title": "01-go-language/03-runtime/README.md",
+          "revision": "683036ea2433c539b8491898e2dee8954bf6b596",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/escape-analysis.md",
+          "title": "01-go-language/03-runtime/escape-analysis.md",
+          "revision": "845ba8bd7c73a46e7a51764b68769c4592096358",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/escape-analysis.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/gc-tuning-production.md",
+          "title": "01-go-language/03-runtime/gc-tuning-production.md",
+          "revision": "312d9ad59f9593754e85d3e92943d01319489a4c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/gc-tuning-production.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/gc.md",
+          "title": "01-go-language/03-runtime/gc.md",
+          "revision": "30a436aea215a0cb091b41d69ac3a485e741e383",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/gc.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/gmp-scheduler.md",
+          "title": "01-go-language/03-runtime/gmp-scheduler.md",
+          "revision": "dea977098cf8a8ea65ea8347e3af74341b700340",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/gmp-scheduler.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/goroutine-leak.md",
+          "title": "01-go-language/03-runtime/goroutine-leak.md",
+          "revision": "b41c35d0283ea7bf2e4fcf0ce258d6b83f6c425b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/goroutine-leak.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/03-runtime/memory-allocator.md",
+          "title": "01-go-language/03-runtime/memory-allocator.md",
+          "revision": "1e84e9b8801d9038a3658a0853516a39f8e0dcae",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/03-runtime/memory-allocator.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/README.md",
+          "title": "01-go-language/04-stdlib/README.md",
+          "revision": "7439241e81dd0cffe72b3a3aa695bbddb814ccb6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/context-timeout.md",
+          "title": "01-go-language/04-stdlib/context-timeout.md",
+          "revision": "c9f7a58fb60517f1a46907219764d4f62426c171",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/context-timeout.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/database-sql.md",
+          "title": "01-go-language/04-stdlib/database-sql.md",
+          "revision": "a3254231040524d69707ee6b88b0c6f80ac66917",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/database-sql.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/encoding.md",
+          "title": "01-go-language/04-stdlib/encoding.md",
+          "revision": "c88f3687054949ede015d8d0605d83b34f844bf3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/encoding.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/http-client-server-pitfalls.md",
+          "title": "01-go-language/04-stdlib/http-client-server-pitfalls.md",
+          "revision": "17591c1699a37b53b50d4bd880cf7ba3107c9799",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/http-client-server-pitfalls.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/io.md",
+          "title": "01-go-language/04-stdlib/io.md",
+          "revision": "a1052604a9aa25d70b316093b3e4cf8ac17131c7",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/io.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/json-encoding-pitfalls.md",
+          "title": "01-go-language/04-stdlib/json-encoding-pitfalls.md",
+          "revision": "d8085bc0a559c828b111b5c2595c3c59a68778cf",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/json-encoding-pitfalls.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/net-http.md",
+          "title": "01-go-language/04-stdlib/net-http.md",
+          "revision": "40c03e8d9e8ec7a5b0ee7aba2b559d7d951194da",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/net-http.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/04-stdlib/reflect.md",
+          "title": "01-go-language/04-stdlib/reflect.md",
+          "revision": "19363d33f1e109cb9b3b6d1d8f72a33d4c314e4e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/04-stdlib/reflect.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/05-engineering/README.md",
+          "title": "01-go-language/05-engineering/README.md",
+          "revision": "f54343fb98954a85e31ac69368bb4f021b176741",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/05-engineering/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/05-engineering/error-handling.md",
+          "title": "01-go-language/05-engineering/error-handling.md",
+          "revision": "196043ab1b2d2248d8b10b4e855a43cf0f0450e9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/05-engineering/error-handling.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/05-engineering/go-mod.md",
+          "title": "01-go-language/05-engineering/go-mod.md",
+          "revision": "e22ca1f1df77a68b86e55f5e2b621ad7a0edd922",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/05-engineering/go-mod.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/05-engineering/logging.md",
+          "title": "01-go-language/05-engineering/logging.md",
+          "revision": "beccba532f637d3c0df14384d1349f144872b277",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/05-engineering/logging.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/05-engineering/project-layout.md",
+          "title": "01-go-language/05-engineering/project-layout.md",
+          "revision": "55bbc672029eb1b13a0ec9f43bcce510cbc74c81",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/05-engineering/project-layout.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/05-engineering/testing.md",
+          "title": "01-go-language/05-engineering/testing.md",
+          "revision": "08b38e96ec18f36a0595dd41b7fb7405648a11f9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/05-engineering/testing.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/06-performance/README.md",
+          "title": "01-go-language/06-performance/README.md",
+          "revision": "cdf01a57170ef9c0d793ba088fabbc7871d70be4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/06-performance/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/06-performance/benchmark.md",
+          "title": "01-go-language/06-performance/benchmark.md",
+          "revision": "53d571c05aa3e0d0e37b81c2a0ac92cd662441f0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/06-performance/benchmark.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/06-performance/go-production-troubleshooting.md",
+          "title": "01-go-language/06-performance/go-production-troubleshooting.md",
+          "revision": "54ebf5898f993a0e9b53a4de56c5a61e4ba50b9c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/06-performance/go-production-troubleshooting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/06-performance/memory-optimization.md",
+          "title": "01-go-language/06-performance/memory-optimization.md",
+          "revision": "41bd54ab78e4de14c7353312aecb664407d9779e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/06-performance/memory-optimization.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/06-performance/pprof.md",
+          "title": "01-go-language/06-performance/pprof.md",
+          "revision": "0051c9a24d94b875c2ca5edb6d9e54427c6d6b10",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/06-performance/pprof.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/06-performance/troubleshooting.md",
+          "title": "01-go-language/06-performance/troubleshooting.md",
+          "revision": "897c804d4a63e4197b665b2322ee93dd6100ddc0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/06-performance/troubleshooting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/07-ecosystem/README.md",
+          "title": "01-go-language/07-ecosystem/README.md",
+          "revision": "06e4443b909b8b06127e2273fabb5e63fa8da930",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/07-ecosystem/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/07-ecosystem/gin.md",
+          "title": "01-go-language/07-ecosystem/gin.md",
+          "revision": "14de417588e0382c410d2368545dbf28a624c82e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/07-ecosystem/gin.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/07-ecosystem/go-zero.md",
+          "title": "01-go-language/07-ecosystem/go-zero.md",
+          "revision": "4f5b6a0f0f46789a491ced9cf1791797e80c719a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/07-ecosystem/go-zero.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/07-ecosystem/gorm.md",
+          "title": "01-go-language/07-ecosystem/gorm.md",
+          "revision": "b94b7b2de51d0ae75177fe670761a7d766edab25",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/07-ecosystem/gorm.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/07-ecosystem/grpc.md",
+          "title": "01-go-language/07-ecosystem/grpc.md",
+          "revision": "05a9902c00ab97d88fe7f475c013780ad5937abd",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/07-ecosystem/grpc.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/07-ecosystem/kratos.md",
+          "title": "01-go-language/07-ecosystem/kratos.md",
+          "revision": "36fe901b6076a6f59857aafe7de9ad53298ca2fe",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/07-ecosystem/kratos.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "01-go-language/README.md",
+          "title": "01-go-language/README.md",
+          "revision": "4bd072ce90c6b1cc8ef7fe48c82bcda8c6581a1b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/01-go-language/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/00-os-map.md",
+          "title": "02-os/00-os-map.md",
+          "revision": "5186d2b1098f30e82ba4cb387f779f932d9856c3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/00-os-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/01-process-thread.md",
+          "title": "02-os/01-process-thread.md",
+          "revision": "2c98ea6f5c408573b3d51215927165f7c026942b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/01-process-thread.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/02-memory.md",
+          "title": "02-os/02-memory.md",
+          "revision": "c62002de037271e420aa145b70d71b3e5d57a327",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/02-memory.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/03-virtual-memory.md",
+          "title": "02-os/03-virtual-memory.md",
+          "revision": "d041df158c09a05776af9bb8aa5349f651786a39",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/03-virtual-memory.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/04-io-model.md",
+          "title": "02-os/04-io-model.md",
+          "revision": "03a424ea8d57c85b0bd30438295101c380766343",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/04-io-model.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/05-io-multiplexing.md",
+          "title": "02-os/05-io-multiplexing.md",
+          "revision": "d81931ee1e186269580c379fcad3f0fdcf3c5deb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/05-io-multiplexing.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/06-scheduling.md",
+          "title": "02-os/06-scheduling.md",
+          "revision": "cb42d4a551adf8cbfe83e78ecf706cc66fccb419",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/06-scheduling.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/07-lock-concurrency.md",
+          "title": "02-os/07-lock-concurrency.md",
+          "revision": "b6b2d0188726ce38992fa215d66056c0d120b8d9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/07-lock-concurrency.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/08-file-system.md",
+          "title": "02-os/08-file-system.md",
+          "revision": "9d4e47ae2b71881a4449671ceb43c889525fd9b3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/08-file-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/09-linux-troubleshooting.md",
+          "title": "02-os/09-linux-troubleshooting.md",
+          "revision": "af68a7bf168a25ec02fe451e9c72a811816c9b77",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/09-linux-troubleshooting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/10-cpu-load.md",
+          "title": "02-os/10-cpu-load.md",
+          "revision": "387927c580a391cb498e2aab04fb7ed4a0b7a848",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/10-cpu-load.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/11-memory-oom.md",
+          "title": "02-os/11-memory-oom.md",
+          "revision": "24b7b92b1bd16ea9c507c4fc4c523a74cafb73c8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/11-memory-oom.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/12-network-stack.md",
+          "title": "02-os/12-network-stack.md",
+          "revision": "6d8fc01ef1712a19ba87370ea7975a5af9caf50c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/12-network-stack.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/13-observability.md",
+          "title": "02-os/13-observability.md",
+          "revision": "a887c0890d25819abac62b89350e173847f87d03",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/13-observability.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/14-performance-tools.md",
+          "title": "02-os/14-performance-tools.md",
+          "revision": "eb543ee56c4f7b0bf9ba890c2e2af835d766a284",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/14-performance-tools.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/15-cpu-memory-troubleshooting.md",
+          "title": "02-os/15-cpu-memory-troubleshooting.md",
+          "revision": "ec6d30f19e5f01f2b6a377100553faf720855690",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/15-cpu-memory-troubleshooting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/16-production-incident-cases.md",
+          "title": "02-os/16-production-incident-cases.md",
+          "revision": "aefddbccbf5856c799704fb12ed603d0ba8bfff4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/16-production-incident-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/17-network-troubleshooting.md",
+          "title": "02-os/17-network-troubleshooting.md",
+          "revision": "7f54acd8ab1fb9924519c5056e918b20ea2f49d8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/17-network-troubleshooting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/18-disk-io-troubleshooting.md",
+          "title": "02-os/18-disk-io-troubleshooting.md",
+          "revision": "20bd4658299d410dfaf13c406b5d46224db250a7",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/18-disk-io-troubleshooting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/19-container-k8s-resource.md",
+          "title": "02-os/19-container-k8s-resource.md",
+          "revision": "094dfbaef450e4d0253106a55944fcb83d38a33e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/19-container-k8s-resource.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/20-linux-cmd-cheatsheet.md",
+          "title": "02-os/20-linux-cmd-cheatsheet.md",
+          "revision": "e2b03518fd49969425bd522707e5457ceda0d3fc",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/20-linux-cmd-cheatsheet.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/22-http-protocol.md",
+          "title": "02-os/22-http-protocol.md",
+          "revision": "9db7d6cb48fe60c092c5bf7bf71ba6652f8c8d10",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/22-http-protocol.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/23-k8s-traffic-flow.md",
+          "title": "02-os/23-k8s-traffic-flow.md",
+          "revision": "35cf9a4422d1303ed7bfc5779bcc8fb83dda7f56",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/23-k8s-traffic-flow.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "02-os/README.md",
+          "title": "02-os/README.md",
+          "revision": "a792138a91c12e44a00c700e5de31db254cef952",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/02-os/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/00-mysql-map.md",
+          "title": "03-mysql/00-mysql-map.md",
+          "revision": "944d822a5b4977b1d3cc61107c060d02480ce832",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/00-mysql-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/01-architecture.md",
+          "title": "03-mysql/01-architecture.md",
+          "revision": "703f9ba27e4fc6150ee623f3044103896900da86",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/01-architecture.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/02-index.md",
+          "title": "03-mysql/02-index.md",
+          "revision": "0f545e8c779c784aa02a9151aa1055b5e9c3b482",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/02-index.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/03-transaction-lock-mvcc.md",
+          "title": "03-mysql/03-transaction-lock-mvcc.md",
+          "revision": "d0611d25164ac1729b47da414899501b94849ab8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/03-transaction-lock-mvcc.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/04-log.md",
+          "title": "03-mysql/04-log.md",
+          "revision": "170143829c4ece1e2c5b6b0269dbedf2031998fc",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/04-log.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/05-replication-ha.md",
+          "title": "03-mysql/05-replication-ha.md",
+          "revision": "bf974922439f0b81fa8267088f8d7bf47ee1bf37",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/05-replication-ha.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/06-slow-sql-optimization.md",
+          "title": "03-mysql/06-slow-sql-optimization.md",
+          "revision": "ab0b4d1d809e8397c835f855c14b3344ec193055",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/06-slow-sql-optimization.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/07-schema-design.md",
+          "title": "03-mysql/07-schema-design.md",
+          "revision": "d1083e429689556943916f48b5c87cd1c1f0c157",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/07-schema-design.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/08-comparison.md",
+          "title": "03-mysql/08-comparison.md",
+          "revision": "a6068b6f28a2550ff4bade4e232d795c4ca3603a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/08-comparison.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/09-distributed-transaction.md",
+          "title": "03-mysql/09-distributed-transaction.md",
+          "revision": "1a23e7dede747b6bd8542aab3d53c7c0b07259ee",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/09-distributed-transaction.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/10-production-cases.md",
+          "title": "03-mysql/10-production-cases.md",
+          "revision": "93b70f2db4a3316c960cdcda5911a943b9e83b0d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/10-production-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/11-order-system-design.md",
+          "title": "03-mysql/11-order-system-design.md",
+          "revision": "95ab60718cb96880c48e412950d2fb31bc527ea7",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/11-order-system-design.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/12-sharding.md",
+          "title": "03-mysql/12-sharding.md",
+          "revision": "6fb00037dd059e94311dddad6b1a4f6588cdd788",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/12-sharding.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/13-innodb-buffer-pool.md",
+          "title": "03-mysql/13-innodb-buffer-pool.md",
+          "revision": "c00da7ac72d001c19c3f41da526f8976735a686f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/13-innodb-buffer-pool.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/14-explain-optimizer.md",
+          "title": "03-mysql/14-explain-optimizer.md",
+          "revision": "ab503a5cd9b74ae841804dbc423d20980db29d05",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/14-explain-optimizer.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/15-online-ddl-mdl.md",
+          "title": "03-mysql/15-online-ddl-mdl.md",
+          "revision": "2645196cd72e0764eb7ef0eff2de4e6758e09bda",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/15-online-ddl-mdl.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/16-go-mysql-practice.md",
+          "title": "03-mysql/16-go-mysql-practice.md",
+          "revision": "08a739914303efcd5306404235f65e1190c60d74",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/16-go-mysql-practice.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/17-consistency-reconciliation.md",
+          "title": "03-mysql/17-consistency-reconciliation.md",
+          "revision": "a953de863c8889a25850cdc11d657b7db70aa703",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/17-consistency-reconciliation.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/18-field-types-charset-time.md",
+          "title": "03-mysql/18-field-types-charset-time.md",
+          "revision": "16f68319db3dec0d3d4974f1ea7446fe26a0d5fb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/18-field-types-charset-time.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/19-storage-comparison.md",
+          "title": "03-mysql/19-storage-comparison.md",
+          "revision": "842742790d72d518512a4c302af316dd574673df",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/19-storage-comparison.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/20-mysql-senior-answers.md",
+          "title": "03-mysql/20-mysql-senior-answers.md",
+          "revision": "d65f5429a18b1d4ca152d9628d63c287ad3dcc13",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/20-mysql-senior-answers.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/21-mysql-design-tradeoffs.md",
+          "title": "03-mysql/21-mysql-design-tradeoffs.md",
+          "revision": "8089325386a1db2aac5d1b9629151abbd0cc1cde",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/21-mysql-design-tradeoffs.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/22-innodb-internals.md",
+          "title": "03-mysql/22-innodb-internals.md",
+          "revision": "2b2c61f9fc19067e2798f83bac68ac97209fb92b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/22-innodb-internals.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/23-antipatterns-dangerous-ops.md",
+          "title": "03-mysql/23-antipatterns-dangerous-ops.md",
+          "revision": "7d507dc2d52aa3d38ceb168c2baf2f11c1022d87",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/23-antipatterns-dangerous-ops.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "03-mysql/README.md",
+          "title": "03-mysql/README.md",
+          "revision": "2acf078f597bad8434e3ca6fa7c2b0a5ca123927",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/03-mysql/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/00-redis-map.md",
+          "title": "04-redis/00-redis-map.md",
+          "revision": "e80659129b45b4632d1d94b0487e2973c17b672a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/00-redis-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/01-architecture.md",
+          "title": "04-redis/01-architecture.md",
+          "revision": "8cef07f6ce4a84c2af9161ac55bb4dca3650d460",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/01-architecture.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/02-data-structures.md",
+          "title": "04-redis/02-data-structures.md",
+          "revision": "09add7533589a8b8a090682e757c1afa6b2ff18a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/02-data-structures.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/03-persistence.md",
+          "title": "04-redis/03-persistence.md",
+          "revision": "ce098556140978cf24020f8973d8cee371f4fb30",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/03-persistence.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/04-replication-cluster.md",
+          "title": "04-redis/04-replication-cluster.md",
+          "revision": "a44954cb84f953a7c262aa7c3773d3d2cf38f312",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/04-replication-cluster.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/05-cache-patterns.md",
+          "title": "04-redis/05-cache-patterns.md",
+          "revision": "1e3b4f419316ab9a8db1bebd9c685e3147c9fff5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/05-cache-patterns.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/06-distributed-lock.md",
+          "title": "04-redis/06-distributed-lock.md",
+          "revision": "ab77d6bf72eb0e9d661e194b06a1b44ae2519880",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/06-distributed-lock.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/07-pitfalls-tuning.md",
+          "title": "04-redis/07-pitfalls-tuning.md",
+          "revision": "06b7f4e46f034835a78f29fef7e1567766bdd757",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/07-pitfalls-tuning.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/08-scenarios.md",
+          "title": "04-redis/08-scenarios.md",
+          "revision": "026d2926e18ddf8abc76dc0fe763f7418c1ab878",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/08-scenarios.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/09-production-cases.md",
+          "title": "04-redis/09-production-cases.md",
+          "revision": "1a75f0534b449add1d51b41bb79386acf99f4b97",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/09-production-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/10-cache-consistency-design.md",
+          "title": "04-redis/10-cache-consistency-design.md",
+          "revision": "46477995ab6a63a47e139924cd1fae4fbaf30b4d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/10-cache-consistency-design.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/11-multi-tier-cache.md",
+          "title": "04-redis/11-multi-tier-cache.md",
+          "revision": "b7a7f725a744443c3a9f8f6d7ac67efe09b9de5c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/11-multi-tier-cache.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/15-cluster-failover-cases.md",
+          "title": "04-redis/15-cluster-failover-cases.md",
+          "revision": "b3311bbe0520b47319c8f1827866841ef80ffa7b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/15-cluster-failover-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/16-redis-cluster-operability.md",
+          "title": "04-redis/16-redis-cluster-operability.md",
+          "revision": "eb0378aa68c5ce7c4f395171fe9a9291b6c29a4e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/16-redis-cluster-operability.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/17-object-encoding-internals.md",
+          "title": "04-redis/17-object-encoding-internals.md",
+          "revision": "32c561c87b89f7cf690025c0ee83764284018a75",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/17-object-encoding-internals.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/18-eventloop-memory-internals.md",
+          "title": "04-redis/18-eventloop-memory-internals.md",
+          "revision": "41f04823936c6306583907447b12205ebeec99c9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/18-eventloop-memory-internals.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/19-redis-design-tradeoffs.md",
+          "title": "04-redis/19-redis-design-tradeoffs.md",
+          "revision": "a6fe622265bcc32cbda5c461c1b96ca133f72154",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/19-redis-design-tradeoffs.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/20-go-redis-best-practices.md",
+          "title": "04-redis/20-go-redis-best-practices.md",
+          "revision": "e52a5a3e6aeab85ea981a961057aaf499d84db93",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/20-go-redis-best-practices.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/21-senior-interview-answers.md",
+          "title": "04-redis/21-senior-interview-answers.md",
+          "revision": "8adcac5507e9a7eaef8e7516df23bad029321533",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/21-senior-interview-answers.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "04-redis/README.md",
+          "title": "04-redis/README.md",
+          "revision": "51f930f9a44d2b352ef33aa80cf67c2f9bc6b2b5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/04-redis/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/00-mq-map.md",
+          "title": "05-message-queue/00-mq-map.md",
+          "revision": "47bcd30ca7cd56293b8921430011291d87180d8a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/00-mq-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/01-architecture.md",
+          "title": "05-message-queue/01-architecture.md",
+          "revision": "256cc989e3b88969bfe8a9ea4347508b90bc68d8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/01-architecture.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/02-reliability.md",
+          "title": "05-message-queue/02-reliability.md",
+          "revision": "2c5beb7be6861c46a73e0fdd621ab696064559c8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/02-reliability.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/03-order-and-dedup.md",
+          "title": "05-message-queue/03-order-and-dedup.md",
+          "revision": "1f11dc7af9464c5fad932a85da11d68a2c0f746a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/03-order-and-dedup.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/04-ha-replication.md",
+          "title": "05-message-queue/04-ha-replication.md",
+          "revision": "4285f7ca487dd680a9f1eea8be8f5f5af78e55f5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/04-ha-replication.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/05-consumer-rebalance.md",
+          "title": "05-message-queue/05-consumer-rebalance.md",
+          "revision": "6913775aabf7e1ce95f8924cb9a7f08d09f3d407",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/05-consumer-rebalance.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/06-comparison.md",
+          "title": "05-message-queue/06-comparison.md",
+          "revision": "bea7c6f2b89f0b6cc47a71e03ad4862d383f4061",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/06-comparison.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/07-scenarios.md",
+          "title": "05-message-queue/07-scenarios.md",
+          "revision": "9bb0f9301786a3cc0501068766aa5eb8c2878e50",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/07-scenarios.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/08-production-cases.md",
+          "title": "05-message-queue/08-production-cases.md",
+          "revision": "c3669e45011ba7fa34720739953fc0652f58e331",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/08-production-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/09-transaction-message-outbox.md",
+          "title": "05-message-queue/09-transaction-message-outbox.md",
+          "revision": "71c7c4a89c12974d71f5d0385f83b0c0fdf3d502",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/09-transaction-message-outbox.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/10-go-mq-practice.md",
+          "title": "05-message-queue/10-go-mq-practice.md",
+          "revision": "79c8ced9dd49bad9f88288d7ce084fc0f5612b7e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/10-go-mq-practice.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/11-mq-senior-answers.md",
+          "title": "05-message-queue/11-mq-senior-answers.md",
+          "revision": "f9b0cf97c2103e84fbdd5ced21e8927fa6ae5dce",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/11-mq-senior-answers.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "05-message-queue/README.md",
+          "title": "05-message-queue/README.md",
+          "revision": "3edaaead664d4a2d1bd652cbc4941ace026daa83",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/05-message-queue/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/00-distributed-map.md",
+          "title": "06-distributed/00-distributed-map.md",
+          "revision": "585f0132fe5d9f98dbb94a8cccf05ec7387de7b9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/00-distributed-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/01-theory.md",
+          "title": "06-distributed/01-theory.md",
+          "revision": "5f3b863fa99b6ab8ce7a249b605c0fa86a39fb8f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/01-theory.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/02-consensus.md",
+          "title": "06-distributed/02-consensus.md",
+          "revision": "64b14a3c368b1417257343b0a25be7e9c4c4025a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/02-consensus.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/03-transaction.md",
+          "title": "06-distributed/03-transaction.md",
+          "revision": "63ebd9c150ad00a574bec4fff8414c4ab8d0140d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/03-transaction.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/04-lock.md",
+          "title": "06-distributed/04-lock.md",
+          "revision": "a75f2174c286d8bca2863c808ad0184171789d22",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/04-lock.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/05-id-generation.md",
+          "title": "06-distributed/05-id-generation.md",
+          "revision": "5dc41a785ca50504d4e6b4cd3ab67c2ab6b35743",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/05-id-generation.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/06-rate-limit-circuit.md",
+          "title": "06-distributed/06-rate-limit-circuit.md",
+          "revision": "8eb31a1befe406dda91da6be944fdc535458b90b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/06-rate-limit-circuit.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/07-service-discovery-lb.md",
+          "title": "06-distributed/07-service-discovery-lb.md",
+          "revision": "8635b021c20a36bddb90632763390e050e76ff89",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/07-service-discovery-lb.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/08-design-patterns.md",
+          "title": "06-distributed/08-design-patterns.md",
+          "revision": "64fd135139d06c431ab44ccdcf211265961e72cb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/08-design-patterns.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/09-coordination-services.md",
+          "title": "06-distributed/09-coordination-services.md",
+          "revision": "94a3fffb276cf9e3ff88db6b17e0cfa48980032a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/09-coordination-services.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/10-distributed-lock-cases.md",
+          "title": "06-distributed/10-distributed-lock-cases.md",
+          "revision": "afe5303515863c441270ec0bae37d5e0d51dc76a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/10-distributed-lock-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/11-newsql-tcc-frameworks.md",
+          "title": "06-distributed/11-newsql-tcc-frameworks.md",
+          "revision": "fc9c572c575cf0ea7fe4f6401102160c37a3d015",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/11-newsql-tcc-frameworks.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "06-distributed/README.md",
+          "title": "06-distributed/README.md",
+          "revision": "8954952f82db883448173f953b628a3712a25f45",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/06-distributed/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/00-microservice-map.md",
+          "title": "07-microservice/00-microservice-map.md",
+          "revision": "768ea54ef6f8e8508dd66b874c8794e3878f4c44",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/00-microservice-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/01-overview.md",
+          "title": "07-microservice/01-overview.md",
+          "revision": "57af5df9cd5cac2ac6a97577d7f7e283201da508",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/01-overview.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/02-registry-discovery.md",
+          "title": "07-microservice/02-registry-discovery.md",
+          "revision": "d548abc337a8a98d140818bbb4c1ec8c254557aa",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/02-registry-discovery.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/03-config-center.md",
+          "title": "07-microservice/03-config-center.md",
+          "revision": "8d8a86f755afe61f109a8eacfa99d58ad4cd6787",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/03-config-center.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/04-api-gateway.md",
+          "title": "07-microservice/04-api-gateway.md",
+          "revision": "9b969a22fc9f5f2a6eeaaf63e76cb58c975fb114",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/04-api-gateway.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/05-rpc-frameworks.md",
+          "title": "07-microservice/05-rpc-frameworks.md",
+          "revision": "89953c98dc4ff0f162899739034208e6024150cd",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/05-rpc-frameworks.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/06-service-mesh.md",
+          "title": "07-microservice/06-service-mesh.md",
+          "revision": "4102449b0c0ab1bf6ed75160b7e65c1b3acf9ae9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/06-service-mesh.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/07-observability-governance.md",
+          "title": "07-microservice/07-observability-governance.md",
+          "revision": "b35b5e8dcffb048b2d4133ac46c8310d54b63e45",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/07-observability-governance.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "07-microservice/README.md",
+          "title": "07-microservice/README.md",
+          "revision": "2fddbce7b07946ffbfb6aedf11fd254a10ecb023",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/07-microservice/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/00-architecture-map.md",
+          "title": "08-architecture/00-architecture-map.md",
+          "revision": "50c391a71e115d0997a18ddd944dcbbc3139f763",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/00-architecture-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/01-evolution.md",
+          "title": "08-architecture/01-evolution.md",
+          "revision": "98ea3c9c63529eeaef9623580f948b130c52a4c7",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/01-evolution.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/02-high-availability.md",
+          "title": "08-architecture/02-high-availability.md",
+          "revision": "8b32e5f4b0a55a6248a1d9c5d1ee74b62c0d1764",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/02-high-availability.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/03-high-performance.md",
+          "title": "08-architecture/03-high-performance.md",
+          "revision": "262c37ca299867bcac889dcaa75e3445f3533ffb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/03-high-performance.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/04-scalability.md",
+          "title": "08-architecture/04-scalability.md",
+          "revision": "efa5262deadc165ceff6cabeeeff6f3c3d590d9f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/04-scalability.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/05-capacity-planning.md",
+          "title": "08-architecture/05-capacity-planning.md",
+          "revision": "d3b42ad0cd10630dc4427cc68e9755ed5cd68263",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/05-capacity-planning.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/06-decision-tradeoff.md",
+          "title": "08-architecture/06-decision-tradeoff.md",
+          "revision": "0e1b4c8feed3e0f811d6a9ac843e43ac81bc1639",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/06-decision-tradeoff.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "08-architecture/README.md",
+          "title": "08-architecture/README.md",
+          "revision": "2062b1b6333e90e4b4f1404abee39754facfb6b6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/08-architecture/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/00-ddd-map.md",
+          "title": "09-ddd/00-ddd-map.md",
+          "revision": "6c3e6d069280768bf506c8af4c2a0f112cb50c96",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/00-ddd-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/01-strategic-design.md",
+          "title": "09-ddd/01-strategic-design.md",
+          "revision": "9f6e584473b266709d37db7c3f3b829e4414e072",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/01-strategic-design.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/02-tactical-building-blocks.md",
+          "title": "09-ddd/02-tactical-building-blocks.md",
+          "revision": "1fb6db0f7450ab6797fcd6277e82b65c1fb2d369",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/02-tactical-building-blocks.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/03-aggregate-design.md",
+          "title": "09-ddd/03-aggregate-design.md",
+          "revision": "6c70f7d0da3fe006c7d9faaa0c8383413780f732",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/03-aggregate-design.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/04-architecture-patterns.md",
+          "title": "09-ddd/04-architecture-patterns.md",
+          "revision": "344d6b0a7337ef07ecae0e071569031c3b3ea4ed",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/04-architecture-patterns.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/05-cqrs-eventsourcing.md",
+          "title": "09-ddd/05-cqrs-eventsourcing.md",
+          "revision": "79cf56880d10097606f6dbac8cba8a556901b821",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/05-cqrs-eventsourcing.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/06-go-implementation.md",
+          "title": "09-ddd/06-go-implementation.md",
+          "revision": "ef13e41f9c4d5aeab346f78c74b3170df38b0f2e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/06-go-implementation.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/07-anti-patterns-best-practices.md",
+          "title": "09-ddd/07-anti-patterns-best-practices.md",
+          "revision": "b0790b7960e75a905c6adbcb8e477f0bb046124f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/07-anti-patterns-best-practices.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/08-industry-cases.md",
+          "title": "09-ddd/08-industry-cases.md",
+          "revision": "bc8a4e8c12969986d15c42adb5d7209bcfaa9f40",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/08-industry-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/09-three-models-mapping.md",
+          "title": "09-ddd/09-three-models-mapping.md",
+          "revision": "da4097b740b5f5b757652159ee4e474ac0fe34c1",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/09-three-models-mapping.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "09-ddd/README.md",
+          "title": "09-ddd/README.md",
+          "revision": "ece7e739b8b4eaccb31c3636563bf8a9230ca0c4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/09-ddd/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/00-question-map.md",
+          "title": "10-system-design/00-question-map.md",
+          "revision": "1cb6cb3c689eed9a5d7912d9be56b28f1dc86cb1",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/00-question-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/01-design-framework.md",
+          "title": "10-system-design/01-design-framework.md",
+          "revision": "d65cbd6669c1fbf8c838971ef3f10bf7fc029e79",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/01-design-framework.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/01b-4s-method.md",
+          "title": "10-system-design/01b-4s-method.md",
+          "revision": "0861ec78370ba71792c5e99b60d3912347ee1363",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/01b-4s-method.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/02-short-code-platform.md",
+          "title": "10-system-design/02-short-code-platform.md",
+          "revision": "0c5cb20d61086e52c2a8eb8b8a4748f9a12ce09a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/02-short-code-platform.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/02b-short-code-platform-4s.md",
+          "title": "10-system-design/02b-short-code-platform-4s.md",
+          "revision": "0dcb80ccfd4a100eed8ed79e16526799bffcd15c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/02b-short-code-platform-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/03-seckill-system.md",
+          "title": "10-system-design/03-seckill-system.md",
+          "revision": "c150ea4eb2e811cf167e664531431191cad63e27",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/03-seckill-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/03b-seckill-system-4s.md",
+          "title": "10-system-design/03b-seckill-system-4s.md",
+          "revision": "0083fa40447b693b8357054279313125c72e1ab4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/03b-seckill-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/04-realtime-barrage.md",
+          "title": "10-system-design/04-realtime-barrage.md",
+          "revision": "44a91d9755576ba47878eaea73323929bbfd24c8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/04-realtime-barrage.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/04b-realtime-barrage-4s.md",
+          "title": "10-system-design/04b-realtime-barrage-4s.md",
+          "revision": "30222d1d5be82803add7b1d300fb99ddfa39f41c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/04b-realtime-barrage-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/05-live-streaming.md",
+          "title": "10-system-design/05-live-streaming.md",
+          "revision": "5938bb35f8842f9b3f768cfff03bd71d41a7562e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/05-live-streaming.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/06-feed-system.md",
+          "title": "10-system-design/06-feed-system.md",
+          "revision": "00acec6f06412a3be48fc27765d05e2e8c69c05a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/06-feed-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/06b-feed-system-4s.md",
+          "title": "10-system-design/06b-feed-system-4s.md",
+          "revision": "00246b4ca53eea01907dc9f3d31ec0ef504a4aa2",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/06b-feed-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/07-interview-answer-playbook.md",
+          "title": "10-system-design/07-interview-answer-playbook.md",
+          "revision": "4a3cd07f93e87b1725332b0123c542fb426c317d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/07-interview-answer-playbook.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/08-im-system.md",
+          "title": "10-system-design/08-im-system.md",
+          "revision": "883c18ef2b6c6675feed7e375f03e25fd409a310",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/08-im-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/08b-im-system-4s.md",
+          "title": "10-system-design/08b-im-system-4s.md",
+          "revision": "02db0a1148762b7ee8ca81235d15944f975f51f1",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/08b-im-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/09-comment-system.md",
+          "title": "10-system-design/09-comment-system.md",
+          "revision": "63d8fccd2e1a6938b6062af72c2dac70865da0c0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/09-comment-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/10-like-counter-system.md",
+          "title": "10-system-design/10-like-counter-system.md",
+          "revision": "18b2ba8d313196fd1819381bd1bd4550a1afdce5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/10-like-counter-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/11-search-system.md",
+          "title": "10-system-design/11-search-system.md",
+          "revision": "1f9a4f43059ab74edd6feadc91e8122730f69f44",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/11-search-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/11b-search-system-4s.md",
+          "title": "10-system-design/11b-search-system-4s.md",
+          "revision": "d096873320c005b1c4fadd181f8e659d5311ee59",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/11b-search-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/12-file-storage-system.md",
+          "title": "10-system-design/12-file-storage-system.md",
+          "revision": "0e9613fd0c5bf8d8b04ed8e471ee7ffe768a0aef",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/12-file-storage-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/13-payment-system.md",
+          "title": "10-system-design/13-payment-system.md",
+          "revision": "9b1ca1fc9205defda8e3b0032f9cff4c7d06045b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/13-payment-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/13b-payment-system-4s.md",
+          "title": "10-system-design/13b-payment-system-4s.md",
+          "revision": "0e96e4db740e69bee76ebd2fbc31cfff6e007df2",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/13b-payment-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/14-coupon-system.md",
+          "title": "10-system-design/14-coupon-system.md",
+          "revision": "a9f218a8c7a1971932f303b0827cdec629d61b45",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/14-coupon-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/14b-coupon-system-4s.md",
+          "title": "10-system-design/14b-coupon-system-4s.md",
+          "revision": "3cdb8488935e5dfc54ff61f2155067cec7dd8eea",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/14b-coupon-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/15-inventory-system.md",
+          "title": "10-system-design/15-inventory-system.md",
+          "revision": "76ec6861201be62d8f0395f5d296b96e27dd6d55",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/15-inventory-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/16-high-concurrency-scenarios.md",
+          "title": "10-system-design/16-high-concurrency-scenarios.md",
+          "revision": "02e1c37a9c79fb35bdbf9c398eaffa046ff606f0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/16-high-concurrency-scenarios.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/16-ride-hailing-dispatch.md",
+          "title": "10-system-design/16-ride-hailing-dispatch.md",
+          "revision": "3684ded2d9d2170866a487ff7090b5dccb2d2528",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/16-ride-hailing-dispatch.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/17-monitoring-alerting.md",
+          "title": "10-system-design/17-monitoring-alerting.md",
+          "revision": "6e6c7ff518a6d8bc9ec8445789b35501054ccc6d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/17-monitoring-alerting.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/18-api-gateway.md",
+          "title": "10-system-design/18-api-gateway.md",
+          "revision": "4a06949af69bbb30147f5baff9e969f4b41329ea",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/18-api-gateway.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/19-config-center.md",
+          "title": "10-system-design/19-config-center.md",
+          "revision": "65c9cf665e085eb3d6ea8501bd22e0286811d4c5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/19-config-center.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/20-log-search-platform.md",
+          "title": "10-system-design/20-log-search-platform.md",
+          "revision": "61dac0a0082f4eff462c3c4dce80161fe3850b1d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/20-log-search-platform.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/21-shopping-cart.md",
+          "title": "10-system-design/21-shopping-cart.md",
+          "revision": "d29aba3d4940e9b33ca55ca28c1b7fb0f98e3ea0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/21-shopping-cart.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/22-red-packet-system.md",
+          "title": "10-system-design/22-red-packet-system.md",
+          "revision": "6972455e0216c3019afb1f240fb59bbd2dcb4223",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/22-red-packet-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/23-id-generator-system-4s.md",
+          "title": "10-system-design/23-id-generator-system-4s.md",
+          "revision": "c8fc634e69847f5a64efa5316123441419e6da19",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/23-id-generator-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/24-order-system.md",
+          "title": "10-system-design/24-order-system.md",
+          "revision": "efb4991126efffd14f1ee6972bd9921831460f90",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/24-order-system.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/24b-order-system-4s.md",
+          "title": "10-system-design/24b-order-system-4s.md",
+          "revision": "f56d9c2107d5343883f16c4622073993fc99dea0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/24b-order-system-4s.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "10-system-design/README.md",
+          "title": "10-system-design/README.md",
+          "revision": "2bc065a1652f060925a4bdcf73afe207b84581b5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/10-system-design/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/00-cdn-map.md",
+          "title": "11-cdn/00-cdn-map.md",
+          "revision": "ff9fca0e59e170c530380718598121ce3fdfd8d0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/00-cdn-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/01-architecture.md",
+          "title": "11-cdn/01-architecture.md",
+          "revision": "6cc2dc7102c37e3450f02781ad3220a551816789",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/01-architecture.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/02-cache-strategy.md",
+          "title": "11-cdn/02-cache-strategy.md",
+          "revision": "818bb9197783c56e034eb4d788cde97fb2aa81ba",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/02-cache-strategy.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/03-routing-dispatch.md",
+          "title": "11-cdn/03-routing-dispatch.md",
+          "revision": "993ccb44463d841fc984f8f150fa3f61d7a99910",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/03-routing-dispatch.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/04-protocol-optimization.md",
+          "title": "11-cdn/04-protocol-optimization.md",
+          "revision": "dd5a752777285adfe8c7a777126b60fe68e5779e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/04-protocol-optimization.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/05-security.md",
+          "title": "11-cdn/05-security.md",
+          "revision": "6c39b6b38a8d069e1c0a23ed42f4f20cc669e541",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/05-security.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/06-edge-computing.md",
+          "title": "11-cdn/06-edge-computing.md",
+          "revision": "d63468acdda5348276764ec4e09b490d63a95bbd",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/06-edge-computing.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/07-scenarios.md",
+          "title": "11-cdn/07-scenarios.md",
+          "revision": "336f1767ca8c43302059fa0c8c4e15ca3d0270ae",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/07-scenarios.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/08-troubleshooting-cases.md",
+          "title": "11-cdn/08-troubleshooting-cases.md",
+          "revision": "eb0d757e82b9c40f80a8eaf3dc5229e595d24cf2",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/08-troubleshooting-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/09-multi-cdn.md",
+          "title": "11-cdn/09-multi-cdn.md",
+          "revision": "7cc95c5c64d9804907ad1f47821341954cad9207",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/09-multi-cdn.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "11-cdn/README.md",
+          "title": "11-cdn/README.md",
+          "revision": "dda9e02692c9351234e11f7332cc714e7b9209ba",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/11-cdn/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/00-agent-learning-roadmap.md",
+          "title": "12-ai/00-agent-learning-roadmap.md",
+          "revision": "e3ff697e5f6a0e03b001e7e9b6253dc1ddfe82a3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/00-agent-learning-roadmap.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/01-llm-fundamentals.md",
+          "title": "12-ai/01-llm-fundamentals.md",
+          "revision": "5c666c10048f2afa9f6a2ffa5eb0226040af3b71",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/01-llm-fundamentals.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/02-api-basics.md",
+          "title": "12-ai/02-api-basics.md",
+          "revision": "aac64ad381d573c0cbadf7d5d33b3f5e94c460e9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/02-api-basics.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/03-prompt-engineering.md",
+          "title": "12-ai/03-prompt-engineering.md",
+          "revision": "a73b9f30abc8940e1a595881dad8dc5cc3c469bb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/03-prompt-engineering.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/04-tool-use-function-calling.md",
+          "title": "12-ai/04-tool-use-function-calling.md",
+          "revision": "07b36fd389afe1f5b7bdffae65d1e4cbab0079eb",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/04-tool-use-function-calling.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/05-agent-architectures.md",
+          "title": "12-ai/05-agent-architectures.md",
+          "revision": "7206d8bba8a0ca2740a4f58aab7adee29c97a829",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/05-agent-architectures.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/06-memory-and-context.md",
+          "title": "12-ai/06-memory-and-context.md",
+          "revision": "ec0054ca625632294e34b49be2447f1ddb690d1c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/06-memory-and-context.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/07-rag-engineering.md",
+          "title": "12-ai/07-rag-engineering.md",
+          "revision": "f069dc9700d1c2aef3f814354191e7d7d5138015",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/07-rag-engineering.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/08-mcp-protocol.md",
+          "title": "12-ai/08-mcp-protocol.md",
+          "revision": "adb587ab580d33d6107d77041adac743b5c0b0e6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/08-mcp-protocol.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/09-agent-frameworks.md",
+          "title": "12-ai/09-agent-frameworks.md",
+          "revision": "f5e77a7f8f39e185b458d0ab462e24336985c90d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/09-agent-frameworks.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/10-multi-agent-orchestration.md",
+          "title": "12-ai/10-multi-agent-orchestration.md",
+          "revision": "fd8882df8371a500d3376da86590563b2c343512",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/10-multi-agent-orchestration.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/11-evaluation-and-testing.md",
+          "title": "12-ai/11-evaluation-and-testing.md",
+          "revision": "9c70476dc0abb179e1ea6195ef31979e72c5ca9e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/11-evaluation-and-testing.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/12-production-engineering.md",
+          "title": "12-ai/12-production-engineering.md",
+          "revision": "9ddfd55c1ebd0a50c21e706e74f2137103a751f6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/12-production-engineering.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/99-interview-questions.md",
+          "title": "12-ai/99-interview-questions.md",
+          "revision": "5e7f68add7ece8169b6219d8b2856dea1ae6bfb6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/99-interview-questions.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "12-ai/README.md",
+          "title": "12-ai/README.md",
+          "revision": "58081ad34468eccad62142e7cb7a84e974d8bcc1",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/12-ai/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/00-engineering-map.md",
+          "title": "13-engineering/00-engineering-map.md",
+          "revision": "ed0a02c4f9e8d4e315370d7bc83158d44dd6985d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/00-engineering-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/00-troubleshooting-runbook.md",
+          "title": "13-engineering/00-troubleshooting-runbook.md",
+          "revision": "539c1b44aa8d44dd275d35e1459a6940f6b2b42c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/00-troubleshooting-runbook.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/01-code-review.md",
+          "title": "13-engineering/01-code-review.md",
+          "revision": "474d322dd5ea529317aa2ec130f5648be5dbe983",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/01-code-review.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/02-standards.md",
+          "title": "13-engineering/02-standards.md",
+          "revision": "c094747ec0d6ab6b1de4555fb1f2ba96893c28b5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/02-standards.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/03-testing-strategy.md",
+          "title": "13-engineering/03-testing-strategy.md",
+          "revision": "0b2ef075a7d725589c1033fa019160c660e9b259",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/03-testing-strategy.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/04-observability-integration.md",
+          "title": "13-engineering/04-observability-integration.md",
+          "revision": "e41e8e114588c14fced5be90ca70fec0a0214bb2",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/04-observability-integration.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/05-ai-coding-claude-code.md",
+          "title": "13-engineering/05-ai-coding-claude-code.md",
+          "revision": "04b20a7eb9704ff6dfea3bb156256f037ac46e78",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/05-ai-coding-claude-code.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/06-ai-coding-cookbook.md",
+          "title": "13-engineering/06-ai-coding-cookbook.md",
+          "revision": "8b4c5ee19949a3ce27832f2141c95cf8fb7589ee",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/06-ai-coding-cookbook.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "13-engineering/README.md",
+          "title": "13-engineering/README.md",
+          "revision": "50aaa4ecbbba13224c6fff2e43dd48c79ab77983",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/13-engineering/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/00-project-map.md",
+          "title": "14-projects/00-project-map.md",
+          "revision": "7b5c9a83f716e6e5b012c4507ce7285024c71731",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/00-project-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/01-project-story-framework.md",
+          "title": "14-projects/01-project-story-framework.md",
+          "revision": "8edeba6e61eace040f79887071848b10aae94a31",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/01-project-story-framework.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/02-performance-optimization-cases.md",
+          "title": "14-projects/02-performance-optimization-cases.md",
+          "revision": "e36d2476c73420924ee596b1321d2d4bd103dea4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/02-performance-optimization-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/03-production-incident-stories.md",
+          "title": "14-projects/03-production-incident-stories.md",
+          "revision": "4ab353176b1225cb664f4f510ca1b78d213f3a1a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/03-production-incident-stories.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/04-project-template.md",
+          "title": "14-projects/04-project-template.md",
+          "revision": "de60aa56a1622e8ddc59baf7556a60810e7b28fe",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/04-project-template.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/05-ddd-order-example.md",
+          "title": "14-projects/05-ddd-order-example.md",
+          "revision": "829f82048a2abcd3a77fbd78035baf65eed5b494",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/05-ddd-order-example.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/06-interview-star-template.md",
+          "title": "14-projects/06-interview-star-template.md",
+          "revision": "581ba157c18bb01f075319ce0c981bcf51ff8265",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/06-interview-star-template.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/07-ecommerce-story.md",
+          "title": "14-projects/07-ecommerce-story.md",
+          "revision": "19c965fb8ffe44e949b8a07bea16f48af02a64ff",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/07-ecommerce-story.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/08-im-story.md",
+          "title": "14-projects/08-im-story.md",
+          "revision": "8e12779f5a7d99d8af25417e155b7602aa34733c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/08-im-story.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/09-quantification-and-followups.md",
+          "title": "14-projects/09-quantification-and-followups.md",
+          "revision": "7a89e583665c74a791222dad4b64b8b63246274f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/09-quantification-and-followups.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/README.md",
+          "title": "14-projects/README.md",
+          "revision": "86c652af6d53caf467ac3f6a81bd16763a23d691",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/personal/README.md",
+          "title": "14-projects/personal/README.md",
+          "revision": "d60b58766a4c06daa9bb216063a404e122550c2e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/personal/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "14-projects/personal/project-template.md",
+          "title": "14-projects/personal/project-template.md",
+          "revision": "0717048a46bd3983524be5f21e4239d447f7cb0a",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/14-projects/personal/project-template.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/00-leadership-map.md",
+          "title": "15-leadership/00-leadership-map.md",
+          "revision": "216685b74ff26e1d6aa66bbaadba26f8693845d0",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/00-leadership-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/01-tech-lead-skills.md",
+          "title": "15-leadership/01-tech-lead-skills.md",
+          "revision": "6066ea801371830065182d7a7990dae604767421",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/01-tech-lead-skills.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/02-business-product-thinking.md",
+          "title": "15-leadership/02-business-product-thinking.md",
+          "revision": "44e79ca4021bd7eb71fdb34feac23c3f6af2cdf6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/02-business-product-thinking.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/03-tech-strategy-planning.md",
+          "title": "15-leadership/03-tech-strategy-planning.md",
+          "revision": "6006ec6cf6623b6f80b96e5eea45e96ef698935d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/03-tech-strategy-planning.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/04-senior-answers.md",
+          "title": "15-leadership/04-senior-answers.md",
+          "revision": "8cbc8f615d5d4171b20e55abd48fc7b507016ed8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/04-senior-answers.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/05-team-management-cases.md",
+          "title": "15-leadership/05-team-management-cases.md",
+          "revision": "712dad7bb6f488da5697fc57a2936582e0f7cd07",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/05-team-management-cases.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "15-leadership/README.md",
+          "title": "15-leadership/README.md",
+          "revision": "f527e962dbe4d58d3dc5168a56dfba70bb2e9203",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/15-leadership/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/00-craftsmanship-map.md",
+          "title": "16-software-craftsmanship/00-craftsmanship-map.md",
+          "revision": "fc075b568a709742325501df7fb654db9e7dd40f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/00-craftsmanship-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/01-design-patterns.md",
+          "title": "16-software-craftsmanship/01-design-patterns.md",
+          "revision": "f77b28a8b6fb48d5f297277e1b69dd0af2adbcd6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/01-design-patterns.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/02-design-principles.md",
+          "title": "16-software-craftsmanship/02-design-principles.md",
+          "revision": "0840df12043445af873c4f3f68a8a7fac890c907",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/02-design-principles.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/03-methodologies.md",
+          "title": "16-software-craftsmanship/03-methodologies.md",
+          "revision": "c8f823ac4b96e2f220c72997103a51139e4f7e85",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/03-methodologies.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/04-practices.md",
+          "title": "16-software-craftsmanship/04-practices.md",
+          "revision": "e472ee15e7333a0cbd6fcd24ea50581ec6a528da",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/04-practices.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/05-modeling-tools.md",
+          "title": "16-software-craftsmanship/05-modeling-tools.md",
+          "revision": "da4653264115955f862a6c1301bac495d53246e5",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/05-modeling-tools.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "16-software-craftsmanship/README.md",
+          "title": "16-software-craftsmanship/README.md",
+          "revision": "46772fbe9c39de319487eb75b40f13c1c3fa706b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/16-software-craftsmanship/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "17-interview-framework/01-three-layer-evaluation.md",
+          "title": "17-interview-framework/01-three-layer-evaluation.md",
+          "revision": "dbe833d392ce26340557c54caf8b52cb8803ac59",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/17-interview-framework/01-three-layer-evaluation.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "17-interview-framework/README.md",
+          "title": "17-interview-framework/README.md",
+          "revision": "c7886f95b16810cefe1ea07973b7c5b9723c2cc3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/17-interview-framework/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "17-learning-log/2026-05.md",
+          "title": "17-learning-log/2026-05.md",
+          "revision": "8a48b78806e2ea3bc3aadd31137b2792cc60bf67",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/17-learning-log/2026-05.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "17-learning-log/README.md",
+          "title": "17-learning-log/README.md",
+          "revision": "ce0965aa0274f3f3708e499fc6f52d210c33f47c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/17-learning-log/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "17-learning-log/article-notes/2026-05-10-xiaomi-distributed-transaction.md",
+          "title": "17-learning-log/article-notes/2026-05-10-xiaomi-distributed-transaction.md",
+          "revision": "d2cb642362a9cafc80375087d777258e5ca1b42d",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/17-learning-log/article-notes/2026-05-10-xiaomi-distributed-transaction.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "17-learning-log/article-notes/README.md",
+          "title": "17-learning-log/article-notes/README.md",
+          "revision": "063799fad704724c50a7063dae38e97a60c45116",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/17-learning-log/article-notes/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/01-blocking-queue.md",
+          "title": "20-coding-problems/01-blocking-queue.md",
+          "revision": "8dea1d86f726b25400427ab3f706baab4142b8a4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/01-blocking-queue.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/02-worker-pool.md",
+          "title": "20-coding-problems/02-worker-pool.md",
+          "revision": "50eb04a89f1f0cab127030a9fb2bb233e9ca7f06",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/02-worker-pool.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/03-rate-limiter.md",
+          "title": "20-coding-problems/03-rate-limiter.md",
+          "revision": "3bd089eae244bac455f57645bbfa14e6e25eb648",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/03-rate-limiter.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/04-lru-cache.md",
+          "title": "20-coding-problems/04-lru-cache.md",
+          "revision": "fee0419536efdcabb578a4b8ecae77e937986789",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/04-lru-cache.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/05-semaphore.md",
+          "title": "20-coding-problems/05-semaphore.md",
+          "revision": "7423e026a29e21d27e6ee4fb8c687d0bd0a48c0b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/05-semaphore.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/06-timing-wheel.md",
+          "title": "20-coding-problems/06-timing-wheel.md",
+          "revision": "02e0223432e93af29cea18e79af50d9fd65b6798",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/06-timing-wheel.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/07-singleflight.md",
+          "title": "20-coding-problems/07-singleflight.md",
+          "revision": "fec18ed67e1d7a47509ac5dd2e61b63c69fd4c78",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/07-singleflight.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/08-print-abc.md",
+          "title": "20-coding-problems/08-print-abc.md",
+          "revision": "b5481e39ccfa980875af1841556eb66149f58120",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/08-print-abc.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/09-rwlock-write-prefer.md",
+          "title": "20-coding-problems/09-rwlock-write-prefer.md",
+          "revision": "e3ba418438ed5ea3fc6569f0c464fe0d13908875",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/09-rwlock-write-prefer.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/10-delay-queue.md",
+          "title": "20-coding-problems/10-delay-queue.md",
+          "revision": "4064b0a3135b929b1e97514755ba7a80fb9456c7",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/10-delay-queue.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/11-errgroup.md",
+          "title": "20-coding-problems/11-errgroup.md",
+          "revision": "a84f49e036a77fd847a570ad79a16491f2e44b9e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/11-errgroup.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/12-sharded-map.md",
+          "title": "20-coding-problems/12-sharded-map.md",
+          "revision": "6e6da666b695f81eb0d277ef418f260e6775eae3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/12-sharded-map.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/13-waitgroup.md",
+          "title": "20-coding-problems/13-waitgroup.md",
+          "revision": "482f376168083fcbc6495c90d324b9222c4bcb27",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/13-waitgroup.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/14-barrier.md",
+          "title": "20-coding-problems/14-barrier.md",
+          "revision": "6830ebdd74370d575baceaaa14ca9bc09e268735",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/14-barrier.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/15-lfu-cache.md",
+          "title": "20-coding-problems/15-lfu-cache.md",
+          "revision": "e3f66ed8ba6d4291f62a2f4599f15c6e8ebc6cb7",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/15-lfu-cache.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/16-skiplist.md",
+          "title": "20-coding-problems/16-skiplist.md",
+          "revision": "18529487b7b2936312fffbfb11a44d495e9f403f",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/16-skiplist.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "20-coding-problems/README.md",
+          "title": "20-coding-problems/README.md",
+          "revision": "18543a3acb1e0a094e6f8735cc99f18e982e0a0b",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/20-coding-problems/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/00-interview-question-index.md",
+          "title": "99-meta/00-interview-question-index.md",
+          "revision": "8717c2f73dc9daff2789877d959cebcc6557044c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/00-interview-question-index.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/01-cross-topic-index.md",
+          "title": "99-meta/01-cross-topic-index.md",
+          "revision": "95426a3c8e36695f752d9666cce199e5216658c6",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/01-cross-topic-index.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/README.md",
+          "title": "99-meta/README.md",
+          "revision": "a8ae71693e36d07d0e5e71dff6ce3072ad453c22",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/ai-20.md",
+          "title": "99-meta/ai-20.md",
+          "revision": "4da5ce67c4f757c6ed28b8070e0563c10c1c87a3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/ai-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/architecture-20.md",
+          "title": "99-meta/architecture-20.md",
+          "revision": "cea3673c0064f31ce5917a2941e07402d9b52043",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/architecture-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/capacity-numbers.md",
+          "title": "99-meta/capacity-numbers.md",
+          "revision": "778e84091e2b633441d18b71bcea3cd951b87388",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/capacity-numbers.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/cdn-20.md",
+          "title": "99-meta/cdn-20.md",
+          "revision": "521bbe03b001917c3f1e0e5688f58481f468b9b4",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/cdn-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/ddd-20.md",
+          "title": "99-meta/ddd-20.md",
+          "revision": "2a80cb4d10c6f78e96ad07f76a2cba581eabc296",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/ddd-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/distributed-20.md",
+          "title": "99-meta/distributed-20.md",
+          "revision": "7e0244f33419977837527edcaf8909a3dadd1775",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/distributed-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/engineering-20.md",
+          "title": "99-meta/engineering-20.md",
+          "revision": "f4c136d12c5d444a0cb1701b4152c20154921ac8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/engineering-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/go-100.md",
+          "title": "99-meta/go-100.md",
+          "revision": "7ecbeca77c24317f53d7d601fabcf4b83b9527ff",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/go-100.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/go-concurrency-100.md",
+          "title": "99-meta/go-concurrency-100.md",
+          "revision": "c325274a0df705a3c3809cd72c6ee2ac4019e6b3",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/go-concurrency-100.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/microservice-20.md",
+          "title": "99-meta/microservice-20.md",
+          "revision": "62e0a986130c53486cd07596f201fafabe28b658",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/microservice-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/mq-20.md",
+          "title": "99-meta/mq-20.md",
+          "revision": "aa6baaf48b89b3889016af1698c692dfe5ad2d55",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/mq-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/mysql-20.md",
+          "title": "99-meta/mysql-20.md",
+          "revision": "03d29d52cda87724faa4b26f9cbdf593fd98b0de",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/mysql-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/order-system-qa.md",
+          "title": "99-meta/order-system-qa.md",
+          "revision": "30ceb4874b87bd2b603fcac75099f265fe8504af",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/order-system-qa.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/os-20.md",
+          "title": "99-meta/os-20.md",
+          "revision": "da1debe8293a59e7374265cb6de7fe3ba5bfcba9",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/os-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/real-world-scenarios.md",
+          "title": "99-meta/real-world-scenarios.md",
+          "revision": "f64d3d485b9bb63dac546d6eda881fcbd8a3a6f8",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/real-world-scenarios.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/redis-20.md",
+          "title": "99-meta/redis-20.md",
+          "revision": "d7c83e673917f0ac8919646d27935ae023f8871c",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/redis-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/senior-go-interview-25.md",
+          "title": "99-meta/senior-go-interview-25.md",
+          "revision": "406996740a838bee7073ffad5d0acac522842374",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/senior-go-interview-25.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/system-design-20.md",
+          "title": "99-meta/system-design-20.md",
+          "revision": "5a58b9f7a026c1ccb80b45aa2b42679f5ff8780e",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/system-design-20.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "99-meta/wrong-answers.md",
+          "title": "99-meta/wrong-answers.md",
+          "revision": "bfb3db043f7865947ffd55c4d4312d51a107c767",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/99-meta/wrong-answers.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "CLAUDE.md",
+          "title": "CLAUDE.md",
+          "revision": "8137d67cf864c137970365e229ff37da34142cba",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/CLAUDE.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "README.md",
+          "title": "README.md",
+          "revision": "1db5c765bcd6696877aa525fb28aa6fae3085c09",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/README.md",
+          "status": "navigation_only"
+        },
+        {
+          "key": "docs/specs/2026-05-02-interview-note-structure.md",
+          "title": "docs/specs/2026-05-02-interview-note-structure.md",
+          "revision": "df837b4fe408158dbf1750060b22aa14ac712b88",
+          "url": "https://github.com/vaynedu/interview_note/blob/ffff58c28da8920d6080dd31db784f8a76a21994/docs/specs/2026-05-02-interview-note-structure.md",
+          "status": "navigation_only"
+        }
+      ],
+      "error": null,
+      "url": "https://github.com/vaynedu/interview_note"
+    },
+    "xiaolin_mysql": {
+      "last_success_utc": "2026-11-20T11:23:01.111571+00:00",
+      "last_attempt_utc": "2026-11-20T11:23:01.111571+00:00",
+      "sha256": "4fc2b989a1c51b188a831ea2ad8dec212311b732bf5c2aade573fb64c79d9dee",
+      "entries": [
+        {
+          "key": "nosql和sql的区别",
+          "title": "NOSQL和SQL的区别？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#nosql%E5%92%8Csql%E7%9A%84%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "数据库三大范式是什么",
+          "title": "数据库三大范式是什么？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%89%E5%A4%A7%E8%8C%83%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql-怎么连表查询",
+          "title": "MySQL 怎么连表查询？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql-%E6%80%8E%E4%B9%88%E8%BF%9E%E8%A1%A8%E6%9F%A5%E8%AF%A2",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql如何避免重复插入数据",
+          "title": "MySQL如何避免重复插入数据？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E9%87%8D%E5%A4%8D%E6%8F%92%E5%85%A5%E6%95%B0%E6%8D%AE",
+          "status": "pending_review"
+        },
+        {
+          "key": "char-和-varchar有什么区别",
+          "title": "CHAR 和 VARCHAR有什么区别？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#char-%E5%92%8C-varchar%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "varchar-后面代表字节还是字符",
+          "title": "VARCHAR 后面代表字节还是字符？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#varchar-%E5%90%8E%E9%9D%A2%E4%BB%A3%E8%A1%A8%E5%AD%97%E8%8A%82%E8%BF%98%E6%98%AF%E5%AD%97%E7%AC%A6",
+          "status": "pending_review"
+        },
+        {
+          "key": "int-1-int-10-在mysql有什么不同",
+          "title": "int(1) int(10) 在mysql有什么不同？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#int-1-int-10-%E5%9C%A8mysql%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C",
+          "status": "pending_review"
+        },
+        {
+          "key": "text数据类型可以无限大吗",
+          "title": "Text数据类型可以无限大吗？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#text%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%AF%E4%BB%A5%E6%97%A0%E9%99%90%E5%A4%A7%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "金额为什么建议用-decimal-而不是-float-或-double",
+          "title": "金额为什么建议用 DECIMAL，而不是 FLOAT 或 DOUBLE？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E9%87%91%E9%A2%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E7%94%A8-decimal-%E8%80%8C%E4%B8%8D%E6%98%AF-float-%E6%88%96-double",
+          "status": "pending_review"
+        },
+        {
+          "key": "ip地址如何在数据库里存储",
+          "title": "IP地址如何在数据库里存储？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#ip%E5%9C%B0%E5%9D%80%E5%A6%82%E4%BD%95%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%BA%93%E9%87%8C%E5%AD%98%E5%82%A8",
+          "status": "pending_review"
+        },
+        {
+          "key": "说一下外键约束",
+          "title": "说一下外键约束",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AF%B4%E4%B8%80%E4%B8%8B%E5%A4%96%E9%94%AE%E7%BA%A6%E6%9D%9F",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql的关键字-in-和-exists",
+          "title": "MySQL的关键字 IN 和 EXISTS",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97-in-%E5%92%8C-exists",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql中的一些基本函数-你知道哪些",
+          "title": "mysql中的一些基本函数，你知道哪些？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E5%87%BD%E6%95%B0-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B",
+          "status": "pending_review"
+        },
+        {
+          "key": "count-、count-1-和-count-字段-有什么区别",
+          "title": "COUNT(*)、COUNT(1) 和 COUNT(字段) 有什么区别？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#count-%E3%80%81count-1-%E5%92%8C-count-%E5%AD%97%E6%AE%B5-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "null-和空字符串有什么区别",
+          "title": "NULL 和空字符串有什么区别？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#null-%E5%92%8C%E7%A9%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "delete、truncate-和-drop-有什么区别",
+          "title": "DELETE、TRUNCATE 和 DROP 有什么区别？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#delete%E3%80%81truncate-%E5%92%8C-drop-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "sql查询语句的执行顺序是怎么样的",
+          "title": "SQL查询语句的执行顺序是怎么样的？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#sql%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "sql题-给学生表、课程成绩表-求不存在01课程但存在02课程的学生的成绩",
+          "title": "sql题：给学生表、课程成绩表，求不存在01课程但存在02课程的学生的成绩",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#sql%E9%A2%98-%E7%BB%99%E5%AD%A6%E7%94%9F%E8%A1%A8%E3%80%81%E8%AF%BE%E7%A8%8B%E6%88%90%E7%BB%A9%E8%A1%A8-%E6%B1%82%E4%B8%8D%E5%AD%98%E5%9C%A801%E8%AF%BE%E7%A8%8B%E4%BD%86%E5%AD%98%E5%9C%A802%E8%AF%BE%E7%A8%8B%E7%9A%84%E5%AD%A6%E7%94%9F%E7%9A%84%E6%88%90%E7%BB%A9",
+          "status": "pending_review"
+        },
+        {
+          "key": "给定一个学生表-student-score-stu-id-subject-id-score-查询总分排名在5-10名的学生id及对应的总分",
+          "title": "给定一个学生表 student_score（stu_id，subject_id，score），查询总分排名在5-10名的学生id及对应的总分",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%BB%99%E5%AE%9A%E4%B8%80%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%A1%A8-student-score-stu-id-subject-id-score-%E6%9F%A5%E8%AF%A2%E6%80%BB%E5%88%86%E6%8E%92%E5%90%8D%E5%9C%A85-10%E5%90%8D%E7%9A%84%E5%AD%A6%E7%94%9Fid%E5%8F%8A%E5%AF%B9%E5%BA%94%E7%9A%84%E6%80%BB%E5%88%86",
+          "status": "pending_review"
+        },
+        {
+          "key": "sql题-查某个班级下所有学生的选课情况",
+          "title": "SQL题：查某个班级下所有学生的选课情况",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#sql%E9%A2%98-%E6%9F%A5%E6%9F%90%E4%B8%AA%E7%8F%AD%E7%BA%A7%E4%B8%8B%E6%89%80%E6%9C%89%E5%AD%A6%E7%94%9F%E7%9A%84%E9%80%89%E8%AF%BE%E6%83%85%E5%86%B5",
+          "status": "pending_review"
+        },
+        {
+          "key": "如何用-mysql-实现一个可重入的锁",
+          "title": "如何用 MySQL 实现一个可重入的锁？",
+          "section": "SQL基础",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E4%BD%95%E7%94%A8-mysql-%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%8F%AF%E9%87%8D%E5%85%A5%E7%9A%84%E9%94%81",
+          "status": "pending_review"
+        },
+        {
+          "key": "执行一条sql请求的过程是什么",
+          "title": "执行一条SQL请求的过程是什么？",
+          "section": "存储引擎",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%89%A7%E8%A1%8C%E4%B8%80%E6%9D%A1sql%E8%AF%B7%E6%B1%82%E7%9A%84%E8%BF%87%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "讲一讲mysql的引擎吧-你有什么了解",
+          "title": "讲一讲mysql的引擎吧，你有什么了解？",
+          "section": "存储引擎",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AE%B2%E4%B8%80%E8%AE%B2mysql%E7%9A%84%E5%BC%95%E6%93%8E%E5%90%A7-%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E4%BA%86%E8%A7%A3",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql为什么innodb是默认引擎",
+          "title": "MySQL为什么InnoDB是默认引擎？",
+          "section": "存储引擎",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%BA%E4%BB%80%E4%B9%88innodb%E6%98%AF%E9%BB%98%E8%AE%A4%E5%BC%95%E6%93%8E",
+          "status": "pending_review"
+        },
+        {
+          "key": "说一下mysql的innodb与myisam的区别",
+          "title": "说一下mysql的innodb与MyISAM的区别？",
+          "section": "存储引擎",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AF%B4%E4%B8%80%E4%B8%8Bmysql%E7%9A%84innodb%E4%B8%8Emyisam%E7%9A%84%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "数据管理里-数据文件大体分成哪几种数据文件",
+          "title": "数据管理里，数据文件大体分成哪几种数据文件？",
+          "section": "存储引擎",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E9%87%8C-%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6%E5%A4%A7%E4%BD%93%E5%88%86%E6%88%90%E5%93%AA%E5%87%A0%E7%A7%8D%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6",
+          "status": "pending_review"
+        },
+        {
+          "key": "buffer-pool-是什么-有什么作用",
+          "title": "Buffer Pool 是什么？有什么作用？",
+          "section": "存储引擎",
+          "url": "https://xiaolincoding.com/interview/mysql.html#buffer-pool-%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+          "status": "pending_review"
+        },
+        {
+          "key": "索引是什么-有什么好处",
+          "title": "索引是什么？有什么好处？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%B4%A2%E5%BC%95%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "讲讲索引的分类是什么",
+          "title": "讲讲索引的分类是什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AE%B2%E8%AE%B2%E7%B4%A2%E5%BC%95%E7%9A%84%E5%88%86%E7%B1%BB%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "哈希索引使用场景是什么",
+          "title": "哈希索引使用场景是什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%93%88%E5%B8%8C%E7%B4%A2%E5%BC%95%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql聚簇索引和非聚簇索引的区别是什么",
+          "title": "MySQL聚簇索引和非聚簇索引的区别是什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95%E5%92%8C%E9%9D%9E%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "如果聚簇索引的数据更新-它的存储要不要变化",
+          "title": "如果聚簇索引的数据更新，它的存储要不要变化？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E6%9E%9C%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95%E7%9A%84%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0-%E5%AE%83%E7%9A%84%E5%AD%98%E5%82%A8%E8%A6%81%E4%B8%8D%E8%A6%81%E5%8F%98%E5%8C%96",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql主键是聚簇索引吗",
+          "title": "MySQL主键是聚簇索引吗？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%BB%E9%94%AE%E6%98%AF%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "什么字段适合当做主键",
+          "title": "什么字段适合当做主键？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%80%E4%B9%88%E5%AD%97%E6%AE%B5%E9%80%82%E5%90%88%E5%BD%93%E5%81%9A%E4%B8%BB%E9%94%AE",
+          "status": "pending_review"
+        },
+        {
+          "key": "性别字段能加索引么-为啥",
+          "title": "性别字段能加索引么？为啥？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%80%A7%E5%88%AB%E5%AD%97%E6%AE%B5%E8%83%BD%E5%8A%A0%E7%B4%A2%E5%BC%95%E4%B9%88-%E4%B8%BA%E5%95%A5",
+          "status": "pending_review"
+        },
+        {
+          "key": "表中十个字段-你主键用自增id还是uuid-为什么",
+          "title": "表中十个字段，你主键用自增ID还是UUID，为什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%A1%A8%E4%B8%AD%E5%8D%81%E4%B8%AA%E5%AD%97%E6%AE%B5-%E4%BD%A0%E4%B8%BB%E9%94%AE%E7%94%A8%E8%87%AA%E5%A2%9Eid%E8%BF%98%E6%98%AFuuid-%E4%B8%BA%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "什么自增id更快一些-uuid不快吗-它在b-树里面存储是有序的吗",
+          "title": "什么自增ID更快一些，UUID不快吗，它在B+树里面存储是有序的吗?",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%80%E4%B9%88%E8%87%AA%E5%A2%9Eid%E6%9B%B4%E5%BF%AB%E4%B8%80%E4%BA%9B-uuid%E4%B8%8D%E5%BF%AB%E5%90%97-%E5%AE%83%E5%9C%A8b-%E6%A0%91%E9%87%8C%E9%9D%A2%E5%AD%98%E5%82%A8%E6%98%AF%E6%9C%89%E5%BA%8F%E7%9A%84%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "自增主键一定连续吗",
+          "title": "自增主键一定连续吗？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%87%AA%E5%A2%9E%E4%B8%BB%E9%94%AE%E4%B8%80%E5%AE%9A%E8%BF%9E%E7%BB%AD%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql中的索引是怎么实现的",
+          "title": "Mysql中的索引是怎么实现的  ？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%AD%E7%9A%84%E7%B4%A2%E5%BC%95%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "查询数据时-到了b-树的叶子节点-之后的查找数据是如何做",
+          "title": "查询数据时，到了B+树的叶子节点，之后的查找数据是如何做？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE%E6%97%B6-%E5%88%B0%E4%BA%86b-%E6%A0%91%E7%9A%84%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9-%E4%B9%8B%E5%90%8E%E7%9A%84%E6%9F%A5%E6%89%BE%E6%95%B0%E6%8D%AE%E6%98%AF%E5%A6%82%E4%BD%95%E5%81%9A",
+          "status": "pending_review"
+        },
+        {
+          "key": "b-树的特性是什么",
+          "title": "B+树的特性是什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#b-%E6%A0%91%E7%9A%84%E7%89%B9%E6%80%A7%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "说说b-树和b树的区别",
+          "title": "说说B+树和B树的区别",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AF%B4%E8%AF%B4b-%E6%A0%91%E5%92%8Cb%E6%A0%91%E7%9A%84%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "b-树的好处是什么",
+          "title": "B+树的好处是什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#b-%E6%A0%91%E7%9A%84%E5%A5%BD%E5%A4%84%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "b-树的叶子节点链表是单向还是双向",
+          "title": "B+树的叶子节点链表是单向还是双向？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#b-%E6%A0%91%E7%9A%84%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E9%93%BE%E8%A1%A8%E6%98%AF%E5%8D%95%E5%90%91%E8%BF%98%E6%98%AF%E5%8F%8C%E5%90%91",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql为什么用b-树结构-和其他结构比的优点",
+          "title": "MySQL为什么用B+树结构？和其他结构比的优点？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8b-%E6%A0%91%E7%BB%93%E6%9E%84-%E5%92%8C%E5%85%B6%E4%BB%96%E7%BB%93%E6%9E%84%E6%AF%94%E7%9A%84%E4%BC%98%E7%82%B9",
+          "status": "pending_review"
+        },
+        {
+          "key": "为什么-mysql-不用跳表",
+          "title": "为什么 MySQL 不用跳表？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%BA%E4%BB%80%E4%B9%88-mysql-%E4%B8%8D%E7%94%A8%E8%B7%B3%E8%A1%A8",
+          "status": "pending_review"
+        },
+        {
+          "key": "联合索引的实现原理",
+          "title": "联合索引的实现原理？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86",
+          "status": "pending_review"
+        },
+        {
+          "key": "创建联合索引时需要注意什么",
+          "title": "创建联合索引时需要注意什么？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%88%9B%E5%BB%BA%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E6%97%B6%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "联合索引abc-现在有个执行语句是a-xxx-and-c-xxx-索引怎么走",
+          "title": "联合索引ABC，现在有个执行语句是A = XXX and C < XXX，索引怎么走",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95abc-%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%B8%AA%E6%89%A7%E8%A1%8C%E8%AF%AD%E5%8F%A5%E6%98%AFa-xxx-and-c-xxx-%E7%B4%A2%E5%BC%95%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "status": "pending_review"
+        },
+        {
+          "key": "联合索引-a-b-c-查询条件-where-b-xxx-and-a-x-会生效吗",
+          "title": "联合索引(a,b,c) ，查询条件 where b > xxx and a = x 会生效吗",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95-a-b-c-%E6%9F%A5%E8%AF%A2%E6%9D%A1%E4%BB%B6-where-b-xxx-and-a-x-%E4%BC%9A%E7%94%9F%E6%95%88%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "联合索引-a-b-c-where条件是-a-2-and-c-1-能用到联合索引吗",
+          "title": "联合索引 (a, b，c)，where条件是 a=2 and c = 1，能用到联合索引吗？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95-a-b-c-where%E6%9D%A1%E4%BB%B6%E6%98%AF-a-2-and-c-1-%E8%83%BD%E7%94%A8%E5%88%B0%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "索引失效有哪些",
+          "title": "索引失效有哪些？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%B4%A2%E5%BC%95%E5%A4%B1%E6%95%88%E6%9C%89%E5%93%AA%E4%BA%9B",
+          "status": "pending_review"
+        },
+        {
+          "key": "什么是索引下推-和覆盖索引有什么区别",
+          "title": "什么是索引下推？和覆盖索引有什么区别？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%80%E4%B9%88%E6%98%AF%E7%B4%A2%E5%BC%95%E4%B8%8B%E6%8E%A8-%E5%92%8C%E8%A6%86%E7%9B%96%E7%B4%A2%E5%BC%95%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "什么情况下会回表查询",
+          "title": "什么情况下会回表查询",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BC%9A%E5%9B%9E%E8%A1%A8%E6%9F%A5%E8%AF%A2",
+          "status": "pending_review"
+        },
+        {
+          "key": "什么是覆盖索引",
+          "title": "什么是覆盖索引？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%80%E4%B9%88%E6%98%AF%E8%A6%86%E7%9B%96%E7%B4%A2%E5%BC%95",
+          "status": "pending_review"
+        },
+        {
+          "key": "如果一个列即使单列索引-又是联合索引-单独查它的话先走哪个",
+          "title": "如果一个列即使单列索引，又是联合索引，单独查它的话先走哪个？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E6%9E%9C%E4%B8%80%E4%B8%AA%E5%88%97%E5%8D%B3%E4%BD%BF%E5%8D%95%E5%88%97%E7%B4%A2%E5%BC%95-%E5%8F%88%E6%98%AF%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95-%E5%8D%95%E7%8B%AC%E6%9F%A5%E5%AE%83%E7%9A%84%E8%AF%9D%E5%85%88%E8%B5%B0%E5%93%AA%E4%B8%AA",
+          "status": "pending_review"
+        },
+        {
+          "key": "索引已经建好了-那我再插入一条数据-索引会有哪些变化",
+          "title": "索引已经建好了，那我再插入一条数据，索引会有哪些变化？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%B4%A2%E5%BC%95%E5%B7%B2%E7%BB%8F%E5%BB%BA%E5%A5%BD%E4%BA%86-%E9%82%A3%E6%88%91%E5%86%8D%E6%8F%92%E5%85%A5%E4%B8%80%E6%9D%A1%E6%95%B0%E6%8D%AE-%E7%B4%A2%E5%BC%95%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96",
+          "status": "pending_review"
+        },
+        {
+          "key": "索引字段是不是建的越多越好",
+          "title": "索引字段是不是建的越多越好？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%B4%A2%E5%BC%95%E5%AD%97%E6%AE%B5%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BB%BA%E7%9A%84%E8%B6%8A%E5%A4%9A%E8%B6%8A%E5%A5%BD",
+          "status": "pending_review"
+        },
+        {
+          "key": "如果有一个字段是status值为0或者1-适合建索引吗",
+          "title": "如果有一个字段是status值为0或者1，适合建索引吗",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E6%98%AFstatus%E5%80%BC%E4%B8%BA0%E6%88%96%E8%80%851-%E9%80%82%E5%90%88%E5%BB%BA%E7%B4%A2%E5%BC%95%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "索引的优缺点",
+          "title": "索引的优缺点？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%B4%A2%E5%BC%95%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9",
+          "status": "pending_review"
+        },
+        {
+          "key": "怎么决定建立哪些索引",
+          "title": "怎么决定建立哪些索引?",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%80%8E%E4%B9%88%E5%86%B3%E5%AE%9A%E5%BB%BA%E7%AB%8B%E5%93%AA%E4%BA%9B%E7%B4%A2%E5%BC%95",
+          "status": "pending_review"
+        },
+        {
+          "key": "索引优化详细讲讲",
+          "title": "索引优化详细讲讲",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%AE%B2",
+          "status": "pending_review"
+        },
+        {
+          "key": "了解过前缀索引吗",
+          "title": "了解过前缀索引吗？",
+          "section": "索引",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BA%86%E8%A7%A3%E8%BF%87%E5%89%8D%E7%BC%80%E7%B4%A2%E5%BC%95%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "事务的特性是什么-如何实现的",
+          "title": "事务的特性是什么？如何实现的？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BA%8B%E5%8A%A1%E7%9A%84%E7%89%B9%E6%80%A7%E6%98%AF%E4%BB%80%E4%B9%88-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql可能出现什么和并发相关问题",
+          "title": "mysql可能出现什么和并发相关问题？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E4%BB%80%E4%B9%88%E5%92%8C%E5%B9%B6%E5%8F%91%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98",
+          "status": "pending_review"
+        },
+        {
+          "key": "哪些场景不适合脏读-举个例子",
+          "title": "哪些场景不适合脏读，举个例子？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%93%AA%E4%BA%9B%E5%9C%BA%E6%99%AF%E4%B8%8D%E9%80%82%E5%90%88%E8%84%8F%E8%AF%BB-%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql的是怎么解决并发问题的",
+          "title": "mysql的是怎么解决并发问题的？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E7%9A%84%E6%98%AF%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "事务的隔离级别有哪些",
+          "title": "事务的隔离级别有哪些？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BA%8B%E5%8A%A1%E7%9A%84%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E6%9C%89%E5%93%AA%E4%BA%9B",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql默认级别是什么",
+          "title": "mysql默认级别是什么？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E9%BB%98%E8%AE%A4%E7%BA%A7%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "可重复读隔离级别下-a事务提交的数据-在b事务能看见吗",
+          "title": "可重复读隔离级别下，A事务提交的数据，在B事务能看见吗？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%8F%AF%E9%87%8D%E5%A4%8D%E8%AF%BB%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E4%B8%8B-a%E4%BA%8B%E5%8A%A1%E6%8F%90%E4%BA%A4%E7%9A%84%E6%95%B0%E6%8D%AE-%E5%9C%A8b%E4%BA%8B%E5%8A%A1%E8%83%BD%E7%9C%8B%E8%A7%81%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "举个例子说可重复读下的幻读问题",
+          "title": "举个例子说可重复读下的幻读问题",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90%E8%AF%B4%E5%8F%AF%E9%87%8D%E5%A4%8D%E8%AF%BB%E4%B8%8B%E7%9A%84%E5%B9%BB%E8%AF%BB%E9%97%AE%E9%A2%98",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql-设置了可重读隔离级后-怎么保证不发生幻读",
+          "title": "Mysql 设置了可重读隔离级后，怎么保证不发生幻读？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql-%E8%AE%BE%E7%BD%AE%E4%BA%86%E5%8F%AF%E9%87%8D%E8%AF%BB%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%90%8E-%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E4%B8%8D%E5%8F%91%E7%94%9F%E5%B9%BB%E8%AF%BB",
+          "status": "pending_review"
+        },
+        {
+          "key": "串行化隔离级别是通过什么实现的",
+          "title": "串行化隔离级别是通过什么实现的？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%B2%E8%A1%8C%E5%8C%96%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E6%98%AF%E9%80%9A%E8%BF%87%E4%BB%80%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "介绍mvcc实现原理",
+          "title": "介绍MVCC实现原理",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%8B%E7%BB%8Dmvcc%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86",
+          "status": "pending_review"
+        },
+        {
+          "key": "快照读和当前读有什么区别",
+          "title": "快照读和当前读有什么区别？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%BF%AB%E7%85%A7%E8%AF%BB%E5%92%8C%E5%BD%93%E5%89%8D%E8%AF%BB%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "有了事务-为什么还会出现丢失更新",
+          "title": "有了事务，为什么还会出现丢失更新？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%9C%89%E4%BA%86%E4%BA%8B%E5%8A%A1-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E4%BC%9A%E5%87%BA%E7%8E%B0%E4%B8%A2%E5%A4%B1%E6%9B%B4%E6%96%B0",
+          "status": "pending_review"
+        },
+        {
+          "key": "如何用-mysql-扣减库存-避免超卖",
+          "title": "如何用 MySQL 扣减库存，避免超卖？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E4%BD%95%E7%94%A8-mysql-%E6%89%A3%E5%87%8F%E5%BA%93%E5%AD%98-%E9%81%BF%E5%85%8D%E8%B6%85%E5%8D%96",
+          "status": "pending_review"
+        },
+        {
+          "key": "一条update是不是原子性的-为什么",
+          "title": "一条update是不是原子性的？为什么？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%80%E6%9D%A1update%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8E%9F%E5%AD%90%E6%80%A7%E7%9A%84-%E4%B8%BA%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "滥用事务-或者一个事务里有特别多sql的弊端",
+          "title": "滥用事务，或者一个事务里有特别多sql的弊端？",
+          "section": "事务",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%BB%A5%E7%94%A8%E4%BA%8B%E5%8A%A1-%E6%88%96%E8%80%85%E4%B8%80%E4%B8%AA%E4%BA%8B%E5%8A%A1%E9%87%8C%E6%9C%89%E7%89%B9%E5%88%AB%E5%A4%9Asql%E7%9A%84%E5%BC%8A%E7%AB%AF",
+          "status": "pending_review"
+        },
+        {
+          "key": "讲一下mysql里有哪些锁",
+          "title": "讲一下mysql里有哪些锁？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AE%B2%E4%B8%80%E4%B8%8Bmysql%E9%87%8C%E6%9C%89%E5%93%AA%E4%BA%9B%E9%94%81",
+          "status": "pending_review"
+        },
+        {
+          "key": "数据库的表锁和行锁有什么作用",
+          "title": "数据库的表锁和行锁有什么作用？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E8%A1%A8%E9%94%81%E5%92%8C%E8%A1%8C%E9%94%81%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql两个线程的update语句同时处理一条数据-会不会有阻塞",
+          "title": "MySQL两个线程的update语句同时处理一条数据，会不会有阻塞？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%A4%E4%B8%AA%E7%BA%BF%E7%A8%8B%E7%9A%84update%E8%AF%AD%E5%8F%A5%E5%90%8C%E6%97%B6%E5%A4%84%E7%90%86%E4%B8%80%E6%9D%A1%E6%95%B0%E6%8D%AE-%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%9C%89%E9%98%BB%E5%A1%9E",
+          "status": "pending_review"
+        },
+        {
+          "key": "两条update语句处理一张表的不同的主键范围的记录-一个-10-一个-15-会不会遇到阻塞-底层是为什么的",
+          "title": "两条update语句处理一张表的不同的主键范围的记录，一个<10，一个>15，会不会遇到阻塞？底层是为什么的？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%A4%E6%9D%A1update%E8%AF%AD%E5%8F%A5%E5%A4%84%E7%90%86%E4%B8%80%E5%BC%A0%E8%A1%A8%E7%9A%84%E4%B8%8D%E5%90%8C%E7%9A%84%E4%B8%BB%E9%94%AE%E8%8C%83%E5%9B%B4%E7%9A%84%E8%AE%B0%E5%BD%95-%E4%B8%80%E4%B8%AA-10-%E4%B8%80%E4%B8%AA-15-%E4%BC%9A%E4%B8%8D%E4%BC%9A%E9%81%87%E5%88%B0%E9%98%BB%E5%A1%9E-%E5%BA%95%E5%B1%82%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "如果2个范围不是主键或索引-还会阻塞吗",
+          "title": "如果2个范围不是主键或索引？还会阻塞吗？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E6%9E%9C2%E4%B8%AA%E8%8C%83%E5%9B%B4%E4%B8%8D%E6%98%AF%E4%B8%BB%E9%94%AE%E6%88%96%E7%B4%A2%E5%BC%95-%E8%BF%98%E4%BC%9A%E9%98%BB%E5%A1%9E%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "innodb-的行锁锁的是行-还是索引",
+          "title": "InnoDB 的行锁锁的是行，还是索引？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#innodb-%E7%9A%84%E8%A1%8C%E9%94%81%E9%94%81%E7%9A%84%E6%98%AF%E8%A1%8C-%E8%BF%98%E6%98%AF%E7%B4%A2%E5%BC%95",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql-为什么会死锁-怎么处理",
+          "title": "MySQL 为什么会死锁？怎么处理？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%AD%BB%E9%94%81-%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86",
+          "status": "pending_review"
+        },
+        {
+          "key": "为什么执行-alter-table-会把后续查询也堵住",
+          "title": "为什么执行 ALTER TABLE 会把后续查询也堵住？",
+          "section": "锁",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E8%A1%8C-alter-table-%E4%BC%9A%E6%8A%8A%E5%90%8E%E7%BB%AD%E6%9F%A5%E8%AF%A2%E4%B9%9F%E5%A0%B5%E4%BD%8F",
+          "status": "pending_review"
+        },
+        {
+          "key": "日志文件是分成了哪几种",
+          "title": "日志文件是分成了哪几种？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E6%98%AF%E5%88%86%E6%88%90%E4%BA%86%E5%93%AA%E5%87%A0%E7%A7%8D",
+          "status": "pending_review"
+        },
+        {
+          "key": "讲一下binlog",
+          "title": "讲一下binlog",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%AE%B2%E4%B8%80%E4%B8%8Bbinlog",
+          "status": "pending_review"
+        },
+        {
+          "key": "undolog日志的作用是什么",
+          "title": "UndoLog日志的作用是什么？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#undolog%E6%97%A5%E5%BF%97%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "有了undolog为啥还需要redolog呢",
+          "title": "有了undolog为啥还需要redolog呢？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%9C%89%E4%BA%86undolog%E4%B8%BA%E5%95%A5%E8%BF%98%E9%9C%80%E8%A6%81redolog%E5%91%A2",
+          "status": "pending_review"
+        },
+        {
+          "key": "redo-log怎么保证持久性的",
+          "title": "redo log怎么保证持久性的？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#redo-log%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E6%8C%81%E4%B9%85%E6%80%A7%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "能不能只用binlog不用redo-log",
+          "title": "能不能只用binlog不用redo log？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E8%83%BD%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%94%A8binlog%E4%B8%8D%E7%94%A8redo-log",
+          "status": "pending_review"
+        },
+        {
+          "key": "binlog-两阶段提交过程是怎么样的",
+          "title": "binlog 两阶段提交过程是怎么样的？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#binlog-%E4%B8%A4%E9%98%B6%E6%AE%B5%E6%8F%90%E4%BA%A4%E8%BF%87%E7%A8%8B%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "update语句的具体执行过程是怎样的",
+          "title": "update语句的具体执行过程是怎样的？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#update%E8%AF%AD%E5%8F%A5%E7%9A%84%E5%85%B7%E4%BD%93%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql是如何保障数据不丢失的",
+          "title": "MySQL是如何保障数据不丢失的？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E6%98%AF%E5%A6%82%E4%BD%95%E4%BF%9D%E9%9A%9C%E6%95%B0%E6%8D%AE%E4%B8%8D%E4%B8%A2%E5%A4%B1%E7%9A%84",
+          "status": "pending_review"
+        },
+        {
+          "key": "redolog是在内存里吗",
+          "title": "RedoLog是在内存里吗？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#redolog%E6%98%AF%E5%9C%A8%E5%86%85%E5%AD%98%E9%87%8C%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "innodb-flush-log-at-trx-commit-的-0、1、2-有什么区别",
+          "title": "innodb_flush_log_at_trx_commit 的 0、1、2 有什么区别？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#innodb-flush-log-at-trx-commit-%E7%9A%84-0%E3%80%811%E3%80%812-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "redo-log-写满了怎么办-checkpoint-是什么",
+          "title": "redo log 写满了怎么办？checkpoint 是什么？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#redo-log-%E5%86%99%E6%BB%A1%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E-checkpoint-%E6%98%AF%E4%BB%80%E4%B9%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "什么是组提交-为什么能提高性能",
+          "title": "什么是组提交？为什么能提高性能？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%84%E6%8F%90%E4%BA%A4-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E6%8F%90%E9%AB%98%E6%80%A7%E8%83%BD",
+          "status": "pending_review"
+        },
+        {
+          "key": "为什么要写redolog-而不是直接写到b-树里面",
+          "title": "为什么要写RedoLog，而不是直接写到B+树里面？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99redolog-%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B4%E6%8E%A5%E5%86%99%E5%88%B0b-%E6%A0%91%E9%87%8C%E9%9D%A2",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql-两次写-double-write-buffer-了解吗",
+          "title": "mysql 两次写（double write buffer）了解吗？",
+          "section": "日志",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql-%E4%B8%A4%E6%AC%A1%E5%86%99-double-write-buffer-%E4%BA%86%E8%A7%A3%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql的explain有什么作用",
+          "title": "mysql的explain有什么作用？",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E7%9A%84explain%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+          "status": "pending_review"
+        },
+        {
+          "key": "怎么查看是否有走索引",
+          "title": "怎么查看是否有走索引？",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%80%8E%E4%B9%88%E6%9F%A5%E7%9C%8B%E6%98%AF%E5%90%A6%E6%9C%89%E8%B5%B0%E7%B4%A2%E5%BC%95",
+          "status": "pending_review"
+        },
+        {
+          "key": "怎么查看表的索引",
+          "title": "怎么查看表的索引？",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%80%8E%E4%B9%88%E6%9F%A5%E7%9C%8B%E8%A1%A8%E7%9A%84%E7%B4%A2%E5%BC%95",
+          "status": "pending_review"
+        },
+        {
+          "key": "给你张表-发现查询速度很慢-你有那些解决方案",
+          "title": "给你张表，发现查询速度很慢，你有那些解决方案",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E7%BB%99%E4%BD%A0%E5%BC%A0%E8%A1%A8-%E5%8F%91%E7%8E%B0%E6%9F%A5%E8%AF%A2%E9%80%9F%E5%BA%A6%E5%BE%88%E6%85%A2-%E4%BD%A0%E6%9C%89%E9%82%A3%E4%BA%9B%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+          "status": "pending_review"
+        },
+        {
+          "key": "深分页为什么慢-怎么优化",
+          "title": "深分页为什么慢？怎么优化？",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E6%B7%B1%E5%88%86%E9%A1%B5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%85%A2-%E6%80%8E%E4%B9%88%E4%BC%98%E5%8C%96",
+          "status": "pending_review"
+        },
+        {
+          "key": "order-by-怎么利用索引避免排序",
+          "title": "ORDER BY 怎么利用索引避免排序？",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#order-by-%E6%80%8E%E4%B9%88%E5%88%A9%E7%94%A8%E7%B4%A2%E5%BC%95%E9%81%BF%E5%85%8D%E6%8E%92%E5%BA%8F",
+          "status": "pending_review"
+        },
+        {
+          "key": "如果explain用到的索引不正确的话-有什么办法干预吗",
+          "title": "如果Explain用到的索引不正确的话，有什么办法干预吗？",
+          "section": "性能调优",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%A6%82%E6%9E%9Cexplain%E7%94%A8%E5%88%B0%E7%9A%84%E7%B4%A2%E5%BC%95%E4%B8%8D%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%AF%9D-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8A%9E%E6%B3%95%E5%B9%B2%E9%A2%84%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "mysql主从复制了解吗",
+          "title": "MySQL主从复制了解吗",
+          "section": "架构",
+          "url": "https://xiaolincoding.com/interview/mysql.html#mysql%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E4%BA%86%E8%A7%A3%E5%90%97",
+          "status": "pending_review"
+        },
+        {
+          "key": "主从延迟都有什么处理方法",
+          "title": "主从延迟都有什么处理方法？",
+          "section": "架构",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E4%B8%BB%E4%BB%8E%E5%BB%B6%E8%BF%9F%E9%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95",
+          "status": "pending_review"
+        },
+        {
+          "key": "异步复制和半同步复制有什么区别",
+          "title": "异步复制和半同步复制有什么区别？",
+          "section": "架构",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%BC%82%E6%AD%A5%E5%A4%8D%E5%88%B6%E5%92%8C%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%A4%8D%E5%88%B6%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "gtid-是什么-有什么作用",
+          "title": "GTID 是什么？有什么作用？",
+          "section": "架构",
+          "url": "https://xiaolincoding.com/interview/mysql.html#gtid-%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+          "status": "pending_review"
+        },
+        {
+          "key": "分表和分库是什么-有什么区别",
+          "title": "分表和分库是什么？有什么区别？",
+          "section": "架构",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%88%86%E8%A1%A8%E5%92%8C%E5%88%86%E5%BA%93%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+          "status": "pending_review"
+        },
+        {
+          "key": "分库分表后会遇到哪些问题-怎么选分片键",
+          "title": "分库分表后会遇到哪些问题？怎么选分片键？",
+          "section": "架构",
+          "url": "https://xiaolincoding.com/interview/mysql.html#%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E5%90%8E%E4%BC%9A%E9%81%87%E5%88%B0%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98-%E6%80%8E%E4%B9%88%E9%80%89%E5%88%86%E7%89%87%E9%94%AE",
+          "status": "pending_review"
+        }
+      ],
+      "error": null,
+      "url": "https://xiaolincoding.com/interview/mysql.html",
+      "parent_source": "xiaolin_interview"
+    },
+    "xiaolin_interview": {
+      "url": "https://xiaolincoding.com/interview/",
+      "status": "navigation_only",
+      "scope": "总目录列出的全部技术面试模块；按求职技术栈、当前问题及已学范围选择，不限MySQL。",
+      "entries": [],
+      "selection_policy": "作为小林来源的总入口；无对应缓存时按需访问总目录中的子页面并核验。",
+      "cache_scope": "当前仅xiaolin_mysql包含题目标题缓存；其他模块尚未采集。"
+    },
+    "programmercarl_hot100": {
+      "url": "https://programmercarl.com/hot100/",
+      "status": "navigation_only",
+      "scope": "Hot100算法目录及对应题解；按题号和题名定位，按用户算法语言选择实现。",
+      "language_preference_field": "profile.programming_language",
+      "selection_policy": "本次明确语言要求优先，其次档案算法语言；Python匹配Python3；读取实际语言小节后解释。",
+      "fallback_policy": "缺页或缺语言时明确说明；参考思路改写与独立解法分别标注。",
+      "cache_scope": "未缓存题解正文；仅记录已查看页面的导航。",
+      "entries": [
+        {
+          "key": "leetcode-1",
+          "title": "1. 两数之和",
+          "url": "https://programmercarl.com/hot100/0001.two-sum.html",
+          "status": "navigation_only",
+          "observed_languages": [
+            "C++",
+            "Python3",
+            "Java",
+            "Go",
+            "JS"
+          ],
+          "verification_note": "仅确认页面及语言栏目存在，不代表所有实现已测试。"
+        }
+      ],
+      "response_policy": "回答附已访问的具体题目Markdown链接及所用语言，提供助手理解并重新组织的思路、输入演示、代码解释、复杂度和边界；区分网站实现、自行改写与独立解法。仅提示或复习作答前不泄露完整题解。"
+    }
+  }
+}
