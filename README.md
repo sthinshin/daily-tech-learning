@@ -1,5 +1,7 @@
 # 每日技术学习教练
 
+第一次使用？阅读[使用说明书与快速开始](USER_GUIDE.md)，了解安装、首次配置和日常操作。
+
 ## 定位
 
 面向后端开发求职者，根据实际学习记录提供知识讲解、逐题复习、答题反馈和题库维护的 Skill。
@@ -24,6 +26,7 @@ daily-tech-learning-public/
 ├── CHANGELOG.md
 ├── LICENSE
 ├── README.md
+├── USER_GUIDE.md
 ├── SKILL.md
 ├── question-sources.json
 ├── references/
@@ -45,6 +48,7 @@ daily-tech-learning-public/
 | [忽略规则](.gitignore) | 排除临时文件、本地测试目录和根目录个人记录，保留模板及公共来源配置 |
 | [许可证](LICENSE) | major署名，CC BY-NC-SA 4.0，包含适用范围与第三方资料例外 |
 | [变更记录](CHANGELOG.md) | 记录未发布功能、结构调整与待验证事项 |
+| [使用说明书](USER_GUIDE.md) | 安装建议、首次学习配置、日常操作与问题排查 |
 | [讲解规范](references/teaching-style.md) | 类比、可视化、算法语言匹配与题解输出 |
 | [复习规则](references/review-rules.md) | 答题反馈、掌握度、保存记录与收尾 |
 | [题库规则](references/question-bank-rules.md) | 选题、外部来源、去重与核验 |
@@ -57,7 +61,7 @@ daily-tech-learning-public/
 
 ## 快速开始
 
-1. 按所用工具的 Skill 加载方式加载本目录，技能名称为 `daily-tech-learning`。当前目录为发布准备目录；正式安装时技能文件夹建议命名为`daily-tech-learning`，包含本目录的完整公开文件。尚未完成安装验证或跨平台行为验证，本文不提供未经验证的安装命令。
+1. 按所用工具的 Skill 加载方式加载本目录，技能名称为 `daily-tech-learning`。安装建议见[使用说明书](USER_GUIDE.md#2-安装到-codex)，正式安装时保留完整公开文件。本项目尚未完成安装或跨平台行为验证。
 2. 指定个人学习目录。完整记录流程需要助手能够读取、写入这个目录；查询外部来源时需要相应联网能力。
 3. 告诉助手你的目标技术栈、算法语言、当前基础与近期卡点。时区用于安排复习日期；面试日期和每日时长可暂不填写。
 4. 助手按需从模板创建缺失文件，保留已有记录。仅询问一个知识点时，不必先完成全部配置。
